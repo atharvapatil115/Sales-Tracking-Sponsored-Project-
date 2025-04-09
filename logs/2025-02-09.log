@@ -1,0 +1,64 @@
+2025-02-09 12:07:27,917 - INFO - Database Connection Successfully!
+2025-02-09 12:07:27,918 - ERROR - Database initilization unsuccessful : [Errno 2] No such file or directory: 'Database_schema.sql'
+2025-02-09 12:10:46,461 - ERROR - Database schema file 'Database_schema.sql' not found!
+2025-02-09 12:12:29,175 - INFO - Database Connection Successfully!
+2025-02-09 12:12:29,175 - ERROR - Database initilization unsuccessful : [Errno 2] No such file or directory: 'Database_schema.sql'
+2025-02-09 12:12:53,568 - INFO - Database Connection Successfully!
+2025-02-09 12:12:53,576 - ERROR - Database initilization unsuccessful : near "create": syntax error
+2025-02-09 12:15:13,536 - ERROR - Database schema file 'Database_schema.sql' not found!
+2025-02-09 12:15:25,206 - INFO - Database Connection Successfully!
+2025-02-09 12:15:25,208 - ERROR - Database initilization unsuccessful : near "create": syntax error
+2025-02-09 12:15:51,314 - INFO - Database Connection Successfully!
+2025-02-09 12:15:51,340 - INFO - Database Initlized Successfully
+2025-02-09 14:03:40,736 - INFO - Database Connection Successfully!
+2025-02-09 14:03:40,742 - INFO - Database Initlized Successfully
+2025-02-09 14:03:40,743 - INFO - Database Connection Successfully!
+2025-02-09 14:03:40,743 - ERROR - Error inserting Product Chips
+2025-02-09 14:05:19,506 - INFO - Database Connection Successfully!
+2025-02-09 14:05:19,507 - INFO - Database Initlized Successfully
+2025-02-09 14:05:19,507 - INFO - Database Connection Successfully!
+2025-02-09 14:05:19,507 - ERROR - Error inserting Product Chips
+2025-02-09 14:06:15,979 - INFO - Database Connection Successfully!
+2025-02-09 14:06:15,981 - INFO - Database Initlized Successfully
+2025-02-09 14:06:15,981 - INFO - Database Connection Successfully!
+2025-02-09 14:06:15,981 - ERROR - Error inserting Product Chips
+2025-02-09 14:08:35,342 - INFO - Database Connection Successfully!
+2025-02-09 14:08:35,344 - INFO - Database Initlized Successfully
+2025-02-09 14:08:35,344 - INFO - Database Connection Successfully!
+2025-02-09 14:08:35,351 - INFO - Product Chips Successfully Added
+2025-02-09 14:14:33,279 - INFO - Database Connection Successfully!
+2025-02-09 14:14:33,280 - ERROR - Cannot fetch product details Incorrect number of bindings supplied. The current statement uses 1, and there are 4 supplied.
+2025-02-09 14:15:07,513 - INFO - Database Connection Successfully!
+2025-02-09 14:15:07,513 - ERROR - Cannot fetch product details Incorrect number of bindings supplied. The current statement uses 1, and there are 4 supplied.
+2025-02-09 14:16:39,981 - INFO - Database Connection Successfully!
+2025-02-09 14:18:09,944 - INFO - Database Connection Successfully!
+2025-02-09 14:18:09,944 - WARNING - Invalid Category: sn10
+2025-02-09 14:18:09,944 - INFO - Database Connection Successfully!
+2025-02-09 14:18:09,945 - ERROR - Error updating sales: no such table: sn10
+2025-02-09 14:18:09,945 - INFO - Database Connection Successfully!
+2025-02-09 14:19:08,310 - INFO - Database Connection Successfully!
+2025-02-09 14:19:08,310 - INFO - Database Connection Successfully!
+2025-02-09 14:19:08,318 - INFO - Sales Updated Successfully for product: sn10
+2025-02-09 14:19:08,321 - INFO - Database Connection Successfully!
+2025-02-09 14:19:56,025 - INFO - Database Connection Successfully!
+2025-02-09 14:19:56,026 - INFO - Database Connection Successfully!
+2025-02-09 14:19:56,031 - INFO - Sales Updated Successfully for product: sn10
+2025-02-09 14:19:56,033 - INFO - Database Connection Successfully!
+2025-02-09 14:19:56,033 - INFO - Database Connection Successfully!
+2025-02-09 14:20:02,799 - INFO - Database Connection Successfully!
+2025-02-09 14:20:02,799 - INFO - Database Connection Successfully!
+2025-02-09 14:20:02,799 - ERROR - Insufficient Stock
+2025-02-09 14:20:02,799 - ERROR - Error updating sales: InsufficientStockError.__init__() missing 2 required positional arguments: 'req_stock' and 'avail_stock'
+2025-02-09 14:20:02,800 - INFO - Database Connection Successfully!
+2025-02-09 14:20:02,800 - INFO - Database Connection Successfully!
+2025-02-09 14:21:34,541 - INFO - Database Connection Successfully!
+2025-02-09 14:21:34,542 - INFO - Database Connection Successfully!
+2025-02-09 14:21:34,543 - ERROR - Insufficient Stock
+2025-02-09 14:21:34,543 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :47
+Available Stock : -41
+2025-02-09 14:21:34,543 - INFO - Database Connection Successfully!
+2025-02-09 14:21:34,544 - INFO - Database Connection Successfully!
+2025-02-09 14:21:50,771 - INFO - Database Connection Successfully!
+2025-02-09 14:21:50,772 - INFO - Database Connection Successfully!
+2025-02-09 14:21:50,772 - INFO - Database Connection Successfully!

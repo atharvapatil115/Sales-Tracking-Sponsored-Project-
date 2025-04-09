@@ -1,0 +1,66 @@
+2025-03-25 10:48:38,988 - ERROR - Invalid system key entered for activation
+2025-03-25 10:48:48,665 - INFO - Software activated for new system : BFEBFBFF000806C2-6e:49 on 2025  
+2025-03-25 10:55:40,545 - ERROR - Invalid activation key attempt.
+2025-03-25 10:56:06,831 - INFO - Software activated for system BFEBFBFF000806C2-ec:86:e7:9d:6e:49 on 2025-03-25 10:56:06
+2025-03-25 10:56:07,890 - INFO - Database Connection Successfully!
+2025-03-25 10:56:07,908 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-25 10:56:26,839 - INFO - Database Connection Successfully!
+2025-03-25 10:56:26,879 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:08:24,614 - INFO - Database Connection Successfully!
+2025-03-25 16:08:24,619 - INFO - OB already initialized for today.
+2025-03-25 16:10:54,944 - WARNING - User did not enter an activation key.
+2025-03-25 16:12:26,082 - INFO - Software activated for system BFEBFBFF000806C2-ec:86:e7:9d:6e:49 on 2025-03-25 16:12:26
+2025-03-25 16:12:27,373 - INFO - Database Connection Successfully!
+2025-03-25 16:12:27,374 - INFO - OB already initialized for today.
+2025-03-25 16:12:59,963 - INFO - Database Connection Successfully!
+2025-03-25 16:13:00,001 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:13:10,244 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-25.csv'
+2025-03-25 16:13:29,569 - INFO - Database Connection Successfully!
+2025-03-25 16:13:29,572 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:13:53,297 - INFO - Database Connection Successfully!
+2025-03-25 16:13:53,298 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:13:59,379 - INFO - Database Connection Successfully!
+2025-03-25 16:13:59,380 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:20:07,986 - INFO - Database Connection Successfully!
+2025-03-25 16:20:07,993 - INFO - OB already initialized for today.
+2025-03-25 16:20:22,458 - INFO - Database Connection Successfully!
+2025-03-25 16:20:22,461 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:20:28,947 - INFO - Database Connection Successfully!
+2025-03-25 16:20:28,957 - INFO - Sales Updated Successfully for product: NO180
+2025-03-25 16:20:28,963 - INFO - Database Connection Successfully!
+2025-03-25 16:20:28,977 - INFO - Sales report updated for NO180 on 2025-03-25
+2025-03-25 16:20:29,827 - INFO - Database Connection Successfully!
+2025-03-25 16:20:29,829 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:20:34,201 - INFO - Fetched today's sales
+2025-03-25 16:21:03,137 - INFO - Fetched today's sales
+2025-03-25 16:21:21,365 - INFO - Fetched today's sales
+2025-03-25 16:21:54,276 - INFO - Database Connection Successfully!
+2025-03-25 16:21:54,278 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:22:10,601 - INFO - Fetched today's sales
+2025-03-25 16:22:32,704 - INFO - Database Connection Successfully!
+2025-03-25 16:22:32,706 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:23:13,690 - INFO - Database Connection Successfully!
+2025-03-25 16:23:13,692 - INFO - OB already initialized for today.
+2025-03-25 16:23:33,583 - INFO - Database Connection Successfully!
+2025-03-25 16:23:33,585 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:24:32,549 - INFO - Database Connection Successfully!
+2025-03-25 16:24:32,551 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:24:38,150 - INFO - Database Connection Successfully!
+2025-03-25 16:24:38,152 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:24:48,244 - INFO - Database Connection Successfully!
+2025-03-25 16:24:48,246 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:24:54,802 - INFO - Database Connection Successfully!
+2025-03-25 16:24:54,838 - INFO - Sales Updated Successfully for product: MP180
+2025-03-25 16:24:54,846 - INFO - Database Connection Successfully!
+2025-03-25 16:24:54,855 - INFO - Sales report updated for MP180 on 2025-03-25
+2025-03-25 16:24:55,309 - INFO - Database Connection Successfully!
+2025-03-25 16:24:55,311 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:25:06,215 - INFO - Database Connection Successfully!
+2025-03-25 16:25:06,217 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:25:17,210 - INFO - Database Connection Successfully!
+2025-03-25 16:25:17,217 - INFO - Stock Added Successfully for MF180
+2025-03-25 16:25:17,240 - INFO - Database Connection Successfully!
+2025-03-25 16:25:17,248 - INFO - Stock report updated for MF180 on 2025-03-25
+2025-03-25 16:25:17,858 - INFO - Database Connection Successfully!
+2025-03-25 16:25:17,859 - INFO - Fetched all items from Liquor successfully.
+2025-03-25 16:25:35,069 - INFO - Fetched today's sales

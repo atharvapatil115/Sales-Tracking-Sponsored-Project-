@@ -1,0 +1,4 @@
+Date,Product ID,Category,Brand Name,Opening Balance,Quantity Added,Total,Sale,Closing Balance,Price,Total Amount
+2025-04-08,RR180,Liquor,R.Rum (180ml),15.0,0.0,15.0,5.0,5.0,170.0,850.0
+2025-04-08,RG180,Liquor,RoyalGreen (180ml),0.0,10.0,10.0,0.0,10.0,250.0,0.0
+,Total Sales,,,,,,,,,850.0

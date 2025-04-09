@@ -1,0 +1,6 @@
+Date,Product ID,Category,Brand Name,Opening Balance,Quantity Added,Total,Sale,Closing Balance,Price,Total Amount
+2025-03-15,NO180,Liquor,No.1 (180ml),0.0,100.0,100.0,20.0,80.0,210.0,4200.0
+2025-03-15,RS180,Liquor,R.Stag (180ml),15.0,25.0,40.0,28.0,7.0,240.0,6720.0
+2025-03-15,S5,Snacks,Snacks,17.0,0.0,17.0,17.0,-4.0,5.0,85.0
+2025-03-15,MP180,Liquor,MagicP (180ml),0.0,50.0,50.0,30.0,20.0,0.0,0.0
+,Total Sales,,,,,,,,,11005.0

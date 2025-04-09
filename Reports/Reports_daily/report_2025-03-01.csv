@@ -1,0 +1,6 @@
+Date,Product ID,Category,Brand Name,Opening Balance,Quantity Added,Total,Sale,Closing Balance,Price,Total Amount
+2025-03-01,R125,ColdDrinks,Red Bull (250ml),0.0,15.0,15.0,5.0,2.0,125.0,625.0
+2025-03-01,RS180,Liquor,R.Stag (180ml),0.0,100.0,100.0,10.0,70.0,240.0,2400.0
+2025-03-01,NO180,Liquor,No.1 (180ml),0.0,50.0,50.0,10.0,25.0,210.0,2100.0
+2025-03-01,TB330,Liquor,Tuborg (330ml),0.0,55.0,55.0,5.0,-5.0,150.0,750.0
+,Total Sales,,,,,,,,,5875.0

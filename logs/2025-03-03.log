@@ -1,0 +1,45 @@
+2025-03-03 13:31:46,654 - INFO - Database Connection Successfully!
+2025-03-03 13:31:46,657 - INFO - Fetched all the information from the database about the items!
+2025-03-03 13:32:14,465 - INFO - Database Connection Successfully!
+2025-03-03 13:32:14,475 - INFO - Sales Updated Successfully for product: RS180
+2025-03-03 13:32:14,479 - INFO - Database Connection Successfully!
+2025-03-03 13:32:14,508 - INFO - Sales report updated for RS180 on 2025-03-03
+2025-03-03 16:30:04,699 - INFO - Database Connection Successfully!
+2025-03-03 16:30:04,706 - INFO - Fetched all the information from the database about the items!
+2025-03-03 16:30:12,433 - INFO - Database Connection Successfully!
+2025-03-03 16:30:12,433 - INFO - Fetched all the information from the database about the items!
+2025-03-03 16:30:23,933 - INFO - Database Connection Successfully!
+2025-03-03 16:30:23,971 - INFO - Stock Added Successfully for RS180
+2025-03-03 16:30:23,983 - INFO - Database Connection Successfully!
+2025-03-03 16:30:24,001 - INFO - Stock report updated for RS180 on 2025-03-03
+2025-03-03 16:30:24,001 - ERROR - Exception for OB:<class 'Exception'>
+2025-03-03 16:30:34,949 - INFO - Database Connection Successfully!
+2025-03-03 16:30:34,950 - INFO - Fetched all the information from the database about the items!
+2025-03-03 16:30:57,505 - INFO - Database Connection Successfully!
+2025-03-03 16:30:57,544 - INFO - Sales Updated Successfully for product: RS180
+2025-03-03 16:30:57,563 - INFO - Database Connection Successfully!
+2025-03-03 16:30:57,568 - INFO - Sales report updated for RS180 on 2025-03-03
+2025-03-03 17:12:47,919 - INFO - Database Connection Successfully!
+2025-03-03 17:12:47,937 - INFO - Fetched all the information from the database about the items!
+2025-03-03 17:13:15,061 - INFO - Database Connection Successfully!
+2025-03-03 17:13:15,062 - INFO - Fetched all the information from the database about the items!
+2025-03-03 17:13:39,612 - INFO - Database Connection Successfully!
+2025-03-03 17:13:39,650 - INFO - Sales Updated Successfully for product: RS180
+2025-03-03 17:13:39,660 - INFO - Database Connection Successfully!
+2025-03-03 17:13:39,683 - INFO - Sales report updated for RS180 on 2025-03-03
+2025-03-03 17:18:24,394 - INFO - Database Connection Successfully!
+2025-03-03 17:18:24,395 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:04:36,090 - INFO - Database Connection Successfully!
+2025-03-03 21:04:36,094 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:15:44,573 - INFO - Database Connection Successfully!
+2025-03-03 21:15:44,577 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:17:31,286 - INFO - Database Connection Successfully!
+2025-03-03 21:17:31,287 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:21:51,148 - INFO - Database Connection Successfully!
+2025-03-03 21:21:51,148 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:26:40,821 - INFO - Database Connection Successfully!
+2025-03-03 21:26:40,825 - INFO - Fetched all the information from the database about the items!
+2025-03-03 21:28:45,785 - INFO - Database Connection Successfully!
+2025-03-03 21:28:45,786 - INFO - Fetched all the information from the database about the items!
+2025-03-03 22:35:15,892 - INFO - Database Connection Successfully!
+2025-03-03 22:35:15,898 - INFO - Fetched all the information from the database about the items!

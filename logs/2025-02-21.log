@@ -1,0 +1,66 @@
+2025-02-21 15:43:01,886 - INFO - Database Connection Successfully!
+2025-02-21 15:43:01,893 - ERROR - Error inserting Product frooti: no such table: ColdDrink
+2025-02-21 15:43:01,894 - INFO - product frooti successfully added in ColdDrink category!
+2025-02-21 15:44:33,335 - WARNING - Invalid Category: ColdDrinks
+2025-02-21 15:44:33,336 - INFO - Database Connection Successfully!
+2025-02-21 15:44:33,369 - INFO - Product frooti Successfully Added
+2025-02-21 15:44:33,369 - INFO - product frooti successfully added in ColdDrinks category!
+2025-02-21 16:02:30,890 - INFO - Database Connection Successfully!
+2025-02-21 16:02:30,900 - INFO - Sales Updated Successfully for product: ft
+2025-02-21 16:02:30,936 - INFO - Database Connection Successfully!
+2025-02-21 16:02:30,941 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 16:03:26,188 - INFO - Database Connection Successfully!
+2025-02-21 16:03:26,198 - INFO - Sales Updated Successfully for product: ft
+2025-02-21 16:03:26,210 - INFO - Database Connection Successfully!
+2025-02-21 16:03:26,213 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 16:03:26,213 - INFO - Sold 47  items of product id ft!
+2025-02-21 17:26:32,002 - INFO - Database Connection Successfully!
+2025-02-21 17:26:32,009 - INFO - Product information for product id : ft, Brand Name : frooti fetched successfully!
+2025-02-21 17:27:18,904 - INFO - Database Connection Successfully!
+2025-02-21 17:27:18,937 - INFO - Sales Updated Successfully for product: ft
+2025-02-21 17:27:18,968 - INFO - Database Connection Successfully!
+2025-02-21 17:27:18,971 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 17:27:18,973 - INFO - Sold 13  items of product id ft!
+2025-02-21 17:27:30,637 - INFO - Database Connection Successfully!
+2025-02-21 17:27:30,639 - INFO - Product information for product id : ft, Brand Name : frooti fetched successfully!
+2025-02-21 17:29:07,761 - INFO - Database Connection Successfully!
+2025-02-21 17:29:07,794 - INFO - Product Royal Stag Successfully Added
+2025-02-21 17:29:07,794 - INFO - product Royal Stag successfully added in Liquor category!
+2025-02-21 17:29:30,661 - INFO - Database Connection Successfully!
+2025-02-21 17:29:30,662 - ERROR - Error updating sales: near "Total_sale": syntax error
+2025-02-21 17:29:30,668 - INFO - Database Connection Successfully!
+2025-02-21 17:29:30,672 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 17:29:30,673 - INFO - Sold 69  items of product id rs!
+2025-02-21 17:30:05,186 - INFO - Database Connection Successfully!
+2025-02-21 17:30:05,187 - ERROR - Error updating sales: near "Total_Sale": syntax error
+2025-02-21 17:30:05,194 - INFO - Database Connection Successfully!
+2025-02-21 17:30:05,198 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 17:30:05,199 - INFO - Sold 69  items of product id rs!
+2025-02-21 17:30:51,329 - INFO - Database Connection Successfully!
+2025-02-21 17:30:51,330 - ERROR - Error updating sales: near "Total_Sale": syntax error
+2025-02-21 17:30:51,336 - INFO - Database Connection Successfully!
+2025-02-21 17:30:51,339 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 17:30:51,339 - INFO - Sold 69  items of product id rs!
+2025-02-21 17:31:39,568 - INFO - Database Connection Successfully!
+2025-02-21 17:31:39,600 - INFO - Sales Updated Successfully for product: rs
+2025-02-21 17:31:39,611 - INFO - Database Connection Successfully!
+2025-02-21 17:31:39,614 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 17:31:39,614 - INFO - Sold 69  items of product id rs!
+2025-02-21 17:31:52,215 - INFO - Database Connection Successfully!
+2025-02-21 17:31:52,216 - INFO - Product information for product id : rs, Brand Name : Royal Stag fetched successfully!
+2025-02-21 20:31:11,085 - INFO - Database Connection Successfully!
+2025-02-21 20:31:11,093 - INFO - Product information for product id : ft, Brand Name : frooti fetched successfully!
+2025-02-21 20:31:37,967 - INFO - Database Connection Successfully!
+2025-02-21 20:31:37,969 - INFO - Product information for product id : rs, Brand Name : Royal Stag fetched successfully!
+2025-02-21 20:31:59,631 - INFO - Database Connection Successfully!
+2025-02-21 20:31:59,664 - INFO - Stock Added Successfully for rs
+2025-02-21 20:31:59,665 - INFO - 250 items added of Liquor in stock
+2025-02-21 20:32:13,974 - INFO - Database Connection Successfully!
+2025-02-21 20:32:13,976 - INFO - Product information for product id : rs, Brand Name : Royal Stag fetched successfully!
+2025-02-21 20:32:29,429 - INFO - Database Connection Successfully!
+2025-02-21 20:32:29,461 - INFO - Sales Updated Successfully for product: rs
+2025-02-21 20:32:29,477 - INFO - Database Connection Successfully!
+2025-02-21 20:32:29,480 - INFO - Report for 2025-02-21 successfully generated
+2025-02-21 20:32:29,481 - INFO - Sold 125  items of product id rs!
+2025-02-21 20:32:45,004 - INFO - Database Connection Successfully!
+2025-02-21 20:32:45,006 - INFO - Product information for product id : rs, Brand Name : Royal Stag fetched successfully!

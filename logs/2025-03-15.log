@@ -1,0 +1,452 @@
+2025-03-15 08:31:40,196 - INFO - Database Connection Successfully!
+2025-03-15 08:31:40,208 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-15 08:31:52,509 - INFO - Database Connection Successfully!
+2025-03-15 08:31:52,518 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:32:20,082 - INFO - Database Connection Successfully!
+2025-03-15 08:32:20,084 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:32:48,979 - INFO - Database Connection Successfully!
+2025-03-15 08:32:48,988 - INFO - Stock Added Successfully for NO180
+2025-03-15 08:32:48,993 - INFO - Database Connection Successfully!
+2025-03-15 08:32:49,012 - INFO - Stock report updated for NO180 on 2025-03-15
+2025-03-15 08:32:49,014 - INFO - Database Connection Successfully!
+2025-03-15 08:32:49,015 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:32:49,475 - INFO - Database Connection Successfully!
+2025-03-15 08:32:49,476 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:04,090 - INFO - Database Connection Successfully!
+2025-03-15 08:33:04,092 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:07,827 - INFO - Database Connection Successfully!
+2025-03-15 08:33:07,843 - INFO - Sales Updated Successfully for product: RS180
+2025-03-15 08:33:07,864 - INFO - Database Connection Successfully!
+2025-03-15 08:33:07,870 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 08:33:07,871 - INFO - Database Connection Successfully!
+2025-03-15 08:33:07,873 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:08,286 - INFO - Database Connection Successfully!
+2025-03-15 08:33:08,288 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:14,006 - INFO - Database Connection Successfully!
+2025-03-15 08:33:14,030 - INFO - Sales Updated Successfully for product: NO180
+2025-03-15 08:33:14,050 - INFO - Database Connection Successfully!
+2025-03-15 08:33:14,062 - INFO - Sales report updated for NO180 on 2025-03-15
+2025-03-15 08:33:14,063 - INFO - Database Connection Successfully!
+2025-03-15 08:33:14,064 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:14,457 - INFO - Database Connection Successfully!
+2025-03-15 08:33:14,459 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 08:33:33,461 - INFO - Database Connection Successfully!
+2025-03-15 08:33:33,462 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-15 08:40:07,292 - INFO - Database Connection Successfully!
+2025-03-15 08:40:07,293 - INFO - OB already initialized for today.
+2025-03-15 08:58:55,135 - INFO - Database Connection Successfully!
+2025-03-15 08:58:55,140 - INFO - OB already initialized for today.
+2025-03-15 09:02:11,673 - INFO - Database Connection Successfully!
+2025-03-15 09:02:11,674 - INFO - OB already initialized for today.
+2025-03-15 09:04:55,320 - INFO - Database Connection Successfully!
+2025-03-15 09:04:55,321 - INFO - OB already initialized for today.
+2025-03-15 09:09:36,495 - INFO - Database Connection Successfully!
+2025-03-15 09:09:36,496 - INFO - OB already initialized for today.
+2025-03-15 09:14:45,828 - INFO - Database Connection Successfully!
+2025-03-15 09:14:45,829 - INFO - OB already initialized for today.
+2025-03-15 09:38:45,570 - INFO - Database Connection Successfully!
+2025-03-15 09:38:45,574 - INFO - OB already initialized for today.
+2025-03-15 09:38:52,371 - INFO - Database Connection Successfully!
+2025-03-15 09:38:52,376 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 09:40:27,038 - INFO - Database Connection Successfully!
+2025-03-15 09:40:27,038 - INFO - OB already initialized for today.
+2025-03-15 09:40:30,920 - INFO - Database Connection Successfully!
+2025-03-15 09:40:30,921 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 09:48:10,182 - INFO - Database Connection Successfully!
+2025-03-15 09:48:10,186 - INFO - OB already initialized for today.
+2025-03-15 10:16:13,300 - INFO - Database Connection Successfully!
+2025-03-15 10:16:13,304 - INFO - OB already initialized for today.
+2025-03-15 10:16:49,270 - INFO - Database Connection Successfully!
+2025-03-15 10:16:49,271 - INFO - OB already initialized for today.
+2025-03-15 10:19:14,639 - INFO - Database Connection Successfully!
+2025-03-15 10:19:14,640 - INFO - OB already initialized for today.
+2025-03-15 10:19:47,599 - INFO - Database Connection Successfully!
+2025-03-15 10:19:47,600 - INFO - OB already initialized for today.
+2025-03-15 10:20:07,675 - INFO - Database Connection Successfully!
+2025-03-15 10:20:07,676 - INFO - OB already initialized for today.
+2025-03-15 10:20:33,310 - INFO - Database Connection Successfully!
+2025-03-15 10:20:33,310 - INFO - OB already initialized for today.
+2025-03-15 10:21:06,201 - INFO - Database Connection Successfully!
+2025-03-15 10:21:06,202 - INFO - OB already initialized for today.
+2025-03-15 10:21:20,437 - INFO - Database Connection Successfully!
+2025-03-15 10:21:20,437 - INFO - OB already initialized for today.
+2025-03-15 10:22:04,419 - INFO - Database Connection Successfully!
+2025-03-15 10:22:04,420 - INFO - OB already initialized for today.
+2025-03-15 10:22:26,340 - INFO - Database Connection Successfully!
+2025-03-15 10:22:26,340 - INFO - OB already initialized for today.
+2025-03-15 10:23:10,751 - INFO - Database Connection Successfully!
+2025-03-15 10:23:10,752 - INFO - OB already initialized for today.
+2025-03-15 10:24:05,630 - INFO - Database Connection Successfully!
+2025-03-15 10:24:05,630 - INFO - OB already initialized for today.
+2025-03-15 10:25:00,498 - INFO - Database Connection Successfully!
+2025-03-15 10:25:00,500 - INFO - OB already initialized for today.
+2025-03-15 10:28:02,057 - INFO - Database Connection Successfully!
+2025-03-15 10:28:02,058 - INFO - OB already initialized for today.
+2025-03-15 10:29:25,940 - INFO - Database Connection Successfully!
+2025-03-15 10:29:25,941 - INFO - OB already initialized for today.
+2025-03-15 10:30:19,768 - INFO - Database Connection Successfully!
+2025-03-15 10:30:19,768 - INFO - OB already initialized for today.
+2025-03-15 10:30:34,370 - INFO - Database Connection Successfully!
+2025-03-15 10:30:34,382 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 10:32:07,069 - INFO - Database Connection Successfully!
+2025-03-15 10:32:07,071 - INFO - OB already initialized for today.
+2025-03-15 10:33:46,321 - INFO - Database Connection Successfully!
+2025-03-15 10:33:46,322 - INFO - OB already initialized for today.
+2025-03-15 10:34:26,687 - INFO - Database Connection Successfully!
+2025-03-15 10:34:26,688 - INFO - OB already initialized for today.
+2025-03-15 10:43:15,978 - INFO - Database Connection Successfully!
+2025-03-15 10:43:15,980 - INFO - OB already initialized for today.
+2025-03-15 10:44:16,496 - INFO - Database Connection Successfully!
+2025-03-15 10:44:16,497 - INFO - OB already initialized for today.
+2025-03-15 10:44:33,023 - INFO - Database Connection Successfully!
+2025-03-15 10:44:33,024 - INFO - OB already initialized for today.
+2025-03-15 10:44:50,881 - INFO - Database Connection Successfully!
+2025-03-15 10:44:50,882 - INFO - OB already initialized for today.
+2025-03-15 10:45:13,607 - INFO - Database Connection Successfully!
+2025-03-15 10:45:13,608 - INFO - OB already initialized for today.
+2025-03-15 10:45:22,692 - INFO - Database Connection Successfully!
+2025-03-15 10:45:22,693 - INFO - OB already initialized for today.
+2025-03-15 10:46:26,518 - INFO - Database Connection Successfully!
+2025-03-15 10:46:26,518 - INFO - OB already initialized for today.
+2025-03-15 10:46:45,105 - INFO - Database Connection Successfully!
+2025-03-15 10:46:45,106 - INFO - OB already initialized for today.
+2025-03-15 10:46:55,930 - INFO - Database Connection Successfully!
+2025-03-15 10:46:55,930 - INFO - OB already initialized for today.
+2025-03-15 10:47:13,755 - INFO - Database Connection Successfully!
+2025-03-15 10:47:13,756 - INFO - OB already initialized for today.
+2025-03-15 10:47:25,770 - INFO - Database Connection Successfully!
+2025-03-15 10:47:25,771 - INFO - OB already initialized for today.
+2025-03-15 10:47:30,889 - INFO - Database Connection Successfully!
+2025-03-15 10:47:30,890 - INFO - OB already initialized for today.
+2025-03-15 10:49:36,883 - INFO - Database Connection Successfully!
+2025-03-15 10:49:36,884 - INFO - OB already initialized for today.
+2025-03-15 10:50:22,663 - INFO - Database Connection Successfully!
+2025-03-15 10:50:22,663 - INFO - OB already initialized for today.
+2025-03-15 10:50:54,617 - INFO - Database Connection Successfully!
+2025-03-15 10:50:54,619 - INFO - OB already initialized for today.
+2025-03-15 10:52:09,366 - INFO - Database Connection Successfully!
+2025-03-15 10:52:09,367 - INFO - OB already initialized for today.
+2025-03-15 10:52:55,387 - INFO - Database Connection Successfully!
+2025-03-15 10:52:55,388 - INFO - OB already initialized for today.
+2025-03-15 10:53:03,801 - INFO - Database Connection Successfully!
+2025-03-15 10:53:03,802 - INFO - OB already initialized for today.
+2025-03-15 10:53:57,752 - INFO - Database Connection Successfully!
+2025-03-15 10:53:57,753 - INFO - OB already initialized for today.
+2025-03-15 10:54:33,386 - INFO - Database Connection Successfully!
+2025-03-15 10:54:33,387 - INFO - OB already initialized for today.
+2025-03-15 10:55:10,653 - INFO - Database Connection Successfully!
+2025-03-15 10:55:10,654 - INFO - OB already initialized for today.
+2025-03-15 11:00:33,366 - INFO - Database Connection Successfully!
+2025-03-15 11:00:33,366 - INFO - OB already initialized for today.
+2025-03-15 11:00:48,322 - INFO - Database Connection Successfully!
+2025-03-15 11:00:48,356 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 11:02:23,720 - INFO - Database Connection Successfully!
+2025-03-15 11:02:23,721 - INFO - OB already initialized for today.
+2025-03-15 11:03:11,657 - INFO - Database Connection Successfully!
+2025-03-15 11:03:11,658 - INFO - OB already initialized for today.
+2025-03-15 11:03:32,115 - INFO - Database Connection Successfully!
+2025-03-15 11:03:32,115 - INFO - OB already initialized for today.
+2025-03-15 11:03:51,400 - INFO - Database Connection Successfully!
+2025-03-15 11:03:51,400 - INFO - OB already initialized for today.
+2025-03-15 11:04:13,969 - INFO - Database Connection Successfully!
+2025-03-15 11:04:13,969 - INFO - OB already initialized for today.
+2025-03-15 11:04:40,410 - INFO - Database Connection Successfully!
+2025-03-15 11:04:40,410 - INFO - OB already initialized for today.
+2025-03-15 11:06:08,024 - INFO - Database Connection Successfully!
+2025-03-15 11:06:08,025 - INFO - OB already initialized for today.
+2025-03-15 11:06:40,301 - INFO - Database Connection Successfully!
+2025-03-15 11:06:40,303 - INFO - OB already initialized for today.
+2025-03-15 11:06:52,141 - INFO - Database Connection Successfully!
+2025-03-15 11:06:52,142 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 11:07:52,008 - INFO - Database Connection Successfully!
+2025-03-15 11:07:52,008 - INFO - OB already initialized for today.
+2025-03-15 11:08:08,330 - INFO - Database Connection Successfully!
+2025-03-15 11:08:08,331 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 11:08:44,941 - INFO - Database Connection Successfully!
+2025-03-15 11:08:44,942 - INFO - OB already initialized for today.
+2025-03-15 11:18:32,498 - INFO - Database Connection Successfully!
+2025-03-15 11:18:32,500 - INFO - OB already initialized for today.
+2025-03-15 11:20:30,207 - INFO - Database Connection Successfully!
+2025-03-15 11:20:30,244 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 11:27:34,259 - INFO - Database Connection Successfully!
+2025-03-15 11:27:34,260 - INFO - OB already initialized for today.
+2025-03-15 11:54:39,197 - INFO - Database Connection Successfully!
+2025-03-15 11:54:39,198 - INFO - OB already initialized for today.
+2025-03-15 13:04:11,413 - INFO - Database Connection Successfully!
+2025-03-15 13:04:11,414 - INFO - OB already initialized for today.
+2025-03-15 13:06:02,058 - INFO - Database Connection Successfully!
+2025-03-15 13:06:02,059 - INFO - OB already initialized for today.
+2025-03-15 13:06:27,630 - INFO - Database Connection Successfully!
+2025-03-15 13:06:27,630 - INFO - OB already initialized for today.
+2025-03-15 13:09:01,147 - INFO - Database Connection Successfully!
+2025-03-15 13:09:01,148 - INFO - OB already initialized for today.
+2025-03-15 13:09:32,914 - INFO - Database Connection Successfully!
+2025-03-15 13:09:32,915 - INFO - OB already initialized for today.
+2025-03-15 13:09:43,813 - INFO - Database Connection Successfully!
+2025-03-15 13:09:43,814 - INFO - OB already initialized for today.
+2025-03-15 13:10:38,586 - INFO - Database Connection Successfully!
+2025-03-15 13:10:38,587 - INFO - OB already initialized for today.
+2025-03-15 13:11:35,119 - INFO - Database Connection Successfully!
+2025-03-15 13:11:35,120 - INFO - OB already initialized for today.
+2025-03-15 13:13:27,965 - INFO - Database Connection Successfully!
+2025-03-15 13:13:27,966 - INFO - OB already initialized for today.
+2025-03-15 13:17:33,876 - INFO - Database Connection Successfully!
+2025-03-15 13:17:33,912 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 13:20:23,710 - INFO - Database Connection Successfully!
+2025-03-15 13:20:23,711 - INFO - OB already initialized for today.
+2025-03-15 13:22:54,376 - INFO - Database Connection Successfully!
+2025-03-15 13:22:54,377 - INFO - OB already initialized for today.
+2025-03-15 13:23:13,189 - INFO - Database Connection Successfully!
+2025-03-15 13:23:13,190 - INFO - OB already initialized for today.
+2025-03-15 13:27:05,527 - INFO - Database Connection Successfully!
+2025-03-15 13:27:05,528 - INFO - OB already initialized for today.
+2025-03-15 13:28:41,755 - INFO - Database Connection Successfully!
+2025-03-15 13:28:41,756 - INFO - OB already initialized for today.
+2025-03-15 13:29:58,165 - INFO - Database Connection Successfully!
+2025-03-15 13:29:58,166 - INFO - OB already initialized for today.
+2025-03-15 13:31:01,601 - INFO - Database Connection Successfully!
+2025-03-15 13:31:01,602 - INFO - OB already initialized for today.
+2025-03-15 13:32:27,698 - INFO - Database Connection Successfully!
+2025-03-15 13:32:27,699 - INFO - OB already initialized for today.
+2025-03-15 13:37:47,599 - INFO - Database Connection Successfully!
+2025-03-15 13:37:47,600 - INFO - OB already initialized for today.
+2025-03-15 13:42:45,750 - INFO - Database Connection Successfully!
+2025-03-15 13:42:45,751 - INFO - OB already initialized for today.
+2025-03-15 14:07:23,248 - INFO - Database Connection Successfully!
+2025-03-15 14:07:23,248 - INFO - OB already initialized for today.
+2025-03-15 14:07:53,038 - INFO - Database Connection Successfully!
+2025-03-15 14:07:53,039 - INFO - OB already initialized for today.
+2025-03-15 14:08:03,817 - INFO - Database Connection Successfully!
+2025-03-15 14:08:03,818 - INFO - OB already initialized for today.
+2025-03-15 14:13:11,348 - INFO - Database Connection Successfully!
+2025-03-15 14:13:11,349 - INFO - OB already initialized for today.
+2025-03-15 14:13:57,053 - INFO - Database Connection Successfully!
+2025-03-15 14:13:57,054 - INFO - OB already initialized for today.
+2025-03-15 14:14:29,071 - INFO - Database Connection Successfully!
+2025-03-15 14:14:29,071 - INFO - OB already initialized for today.
+2025-03-15 14:15:50,970 - INFO - Database Connection Successfully!
+2025-03-15 14:15:50,971 - INFO - OB already initialized for today.
+2025-03-15 14:17:33,632 - INFO - Database Connection Successfully!
+2025-03-15 14:17:33,633 - INFO - OB already initialized for today.
+2025-03-15 14:23:25,672 - INFO - Database Connection Successfully!
+2025-03-15 14:23:25,673 - INFO - OB already initialized for today.
+2025-03-15 14:23:52,666 - INFO - Database Connection Successfully!
+2025-03-15 14:23:52,666 - INFO - OB already initialized for today.
+2025-03-15 14:24:20,715 - INFO - Database Connection Successfully!
+2025-03-15 14:24:20,716 - INFO - OB already initialized for today.
+2025-03-15 14:24:47,543 - INFO - Database Connection Successfully!
+2025-03-15 14:24:47,551 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:24:54,801 - INFO - Database Connection Successfully!
+2025-03-15 14:24:54,808 - INFO - Sales Updated Successfully for product: RS180
+2025-03-15 14:24:54,818 - INFO - Database Connection Successfully!
+2025-03-15 14:24:54,835 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 14:25:02,265 - INFO - Database Connection Successfully!
+2025-03-15 14:25:02,273 - INFO - Sales Updated Successfully for product: RS180
+2025-03-15 14:25:02,287 - INFO - Database Connection Successfully!
+2025-03-15 14:25:02,292 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 14:25:32,996 - INFO - Database Connection Successfully!
+2025-03-15 14:25:32,997 - INFO - OB already initialized for today.
+2025-03-15 14:25:41,164 - INFO - Database Connection Successfully!
+2025-03-15 14:25:41,166 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:25:44,226 - INFO - Database Connection Successfully!
+2025-03-15 14:25:44,227 - ERROR - Insufficient Stock
+2025-03-15 14:25:44,227 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :5
+Available Stock : -5
+2025-03-15 14:25:44,241 - INFO - Database Connection Successfully!
+2025-03-15 14:25:44,250 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 14:27:45,855 - INFO - Database Connection Successfully!
+2025-03-15 14:27:45,856 - INFO - OB already initialized for today.
+2025-03-15 14:27:55,958 - INFO - Database Connection Successfully!
+2025-03-15 14:27:55,959 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:27:59,110 - INFO - Database Connection Successfully!
+2025-03-15 14:27:59,110 - ERROR - Insufficient Stock
+2025-03-15 14:27:59,110 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :5
+Available Stock : -5
+2025-03-15 14:27:59,121 - INFO - Database Connection Successfully!
+2025-03-15 14:27:59,130 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 14:29:53,727 - INFO - Database Connection Successfully!
+2025-03-15 14:29:53,727 - INFO - OB already initialized for today.
+2025-03-15 14:30:06,812 - INFO - Database Connection Successfully!
+2025-03-15 14:30:06,813 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:30:10,196 - INFO - Database Connection Successfully!
+2025-03-15 14:30:10,202 - INFO - Stock Added Successfully for RS180
+2025-03-15 14:30:10,220 - INFO - Database Connection Successfully!
+2025-03-15 14:30:10,228 - INFO - Stock report updated for RS180 on 2025-03-15
+2025-03-15 14:30:46,930 - INFO - Database Connection Successfully!
+2025-03-15 14:30:46,930 - INFO - OB already initialized for today.
+2025-03-15 14:30:55,789 - INFO - Database Connection Successfully!
+2025-03-15 14:30:55,790 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:31:11,860 - INFO - Database Connection Successfully!
+2025-03-15 14:31:11,861 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 14:31:14,791 - INFO - Database Connection Successfully!
+2025-03-15 14:31:14,800 - INFO - Sales Updated Successfully for product: S5
+2025-03-15 14:31:14,815 - INFO - Database Connection Successfully!
+2025-03-15 14:31:14,820 - INFO - Sales report updated for S5 on 2025-03-15
+2025-03-15 14:32:12,237 - INFO - Database Connection Successfully!
+2025-03-15 14:32:12,238 - INFO - OB already initialized for today.
+2025-03-15 14:32:21,125 - INFO - Database Connection Successfully!
+2025-03-15 14:32:21,126 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:32:57,471 - INFO - Database Connection Successfully!
+2025-03-15 14:32:57,472 - INFO - OB already initialized for today.
+2025-03-15 14:52:25,861 - INFO - Database Connection Successfully!
+2025-03-15 14:52:25,866 - INFO - OB already initialized for today.
+2025-03-15 14:52:40,036 - INFO - Database Connection Successfully!
+2025-03-15 14:52:40,058 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:52:45,512 - INFO - Database Connection Successfully!
+2025-03-15 14:52:45,520 - INFO - Sales Updated Successfully for product: NO180
+2025-03-15 14:52:45,543 - INFO - Database Connection Successfully!
+2025-03-15 14:52:45,559 - INFO - Sales report updated for NO180 on 2025-03-15
+2025-03-15 14:52:51,664 - INFO - Database Connection Successfully!
+2025-03-15 14:52:51,665 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:53:52,843 - INFO - Database Connection Successfully!
+2025-03-15 14:53:52,843 - INFO - OB already initialized for today.
+2025-03-15 14:54:04,660 - INFO - Database Connection Successfully!
+2025-03-15 14:54:04,661 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:54:09,067 - INFO - Database Connection Successfully!
+2025-03-15 14:54:09,082 - INFO - Sales Updated Successfully for product: NO180
+2025-03-15 14:54:09,098 - INFO - Database Connection Successfully!
+2025-03-15 14:54:09,106 - INFO - Sales report updated for NO180 on 2025-03-15
+2025-03-15 14:54:09,460 - INFO - Database Connection Successfully!
+2025-03-15 14:54:09,461 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:55:16,189 - INFO - Database Connection Successfully!
+2025-03-15 14:55:16,190 - INFO - OB already initialized for today.
+2025-03-15 14:56:12,276 - INFO - Database Connection Successfully!
+2025-03-15 14:56:12,277 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:56:23,152 - INFO - Database Connection Successfully!
+2025-03-15 14:56:23,157 - INFO - Sales Updated Successfully for product: NO180
+2025-03-15 14:56:23,172 - INFO - Database Connection Successfully!
+2025-03-15 14:56:23,181 - INFO - Sales report updated for NO180 on 2025-03-15
+2025-03-15 14:56:23,525 - INFO - Database Connection Successfully!
+2025-03-15 14:56:23,526 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 14:56:32,650 - INFO - Database Connection Successfully!
+2025-03-15 14:56:32,651 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 14:56:44,430 - INFO - Database Connection Successfully!
+2025-03-15 14:56:44,431 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 14:56:46,178 - INFO - Database Connection Successfully!
+2025-03-15 14:56:46,183 - INFO - Sales Updated Successfully for product: S5
+2025-03-15 14:56:46,198 - INFO - Database Connection Successfully!
+2025-03-15 14:56:46,202 - INFO - Sales report updated for S5 on 2025-03-15
+2025-03-15 14:56:46,235 - INFO - Database Connection Successfully!
+2025-03-15 14:56:46,236 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 14:56:57,833 - INFO - Database Connection Successfully!
+2025-03-15 14:56:57,839 - INFO - Sales Updated Successfully for product: S5
+2025-03-15 14:56:57,853 - INFO - Database Connection Successfully!
+2025-03-15 14:56:57,858 - INFO - Sales report updated for S5 on 2025-03-15
+2025-03-15 14:56:57,890 - INFO - Database Connection Successfully!
+2025-03-15 14:56:57,890 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 15:01:33,445 - INFO - Database Connection Successfully!
+2025-03-15 15:01:33,445 - INFO - OB already initialized for today.
+2025-03-15 15:02:22,227 - INFO - Database Connection Successfully!
+2025-03-15 15:02:22,228 - INFO - OB already initialized for today.
+2025-03-15 15:03:13,535 - INFO - Database Connection Successfully!
+2025-03-15 15:03:13,536 - INFO - OB already initialized for today.
+2025-03-15 15:06:21,723 - INFO - Database Connection Successfully!
+2025-03-15 15:06:21,723 - INFO - OB already initialized for today.
+2025-03-15 15:06:30,788 - INFO - Database Connection Successfully!
+2025-03-15 15:06:30,789 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 15:09:07,715 - INFO - Database Connection Successfully!
+2025-03-15 15:09:07,715 - INFO - OB already initialized for today.
+2025-03-15 15:09:38,827 - INFO - Database Connection Successfully!
+2025-03-15 15:09:38,828 - INFO - OB already initialized for today.
+2025-03-15 15:09:50,367 - INFO - Fetched today's sales
+2025-03-15 15:12:14,273 - INFO - Database Connection Successfully!
+2025-03-15 15:12:14,273 - INFO - OB already initialized for today.
+2025-03-15 15:12:30,687 - INFO - Database Connection Successfully!
+2025-03-15 15:12:30,688 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 15:12:34,063 - INFO - Fetched today's sales
+2025-03-15 15:12:39,268 - INFO - Database Connection Successfully!
+2025-03-15 15:12:39,269 - INFO - Fetched all items from Snacks successfully.
+2025-03-15 15:12:41,757 - INFO - Fetched today's sales
+2025-03-15 15:30:21,724 - INFO - Database Connection Successfully!
+2025-03-15 15:30:21,725 - INFO - OB already initialized for today.
+2025-03-15 15:30:39,828 - INFO - Database Connection Successfully!
+2025-03-15 15:30:39,835 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 15:30:43,405 - INFO - Fetched today's sales
+2025-03-15 15:34:38,116 - INFO - Database Connection Successfully!
+2025-03-15 15:34:38,122 - INFO - OB already initialized for today.
+2025-03-15 15:35:03,178 - INFO - Fetched today's sales
+2025-03-15 15:35:38,252 - INFO - Database Connection Successfully!
+2025-03-15 15:35:38,252 - INFO - OB already initialized for today.
+2025-03-15 15:35:56,400 - INFO - Fetched today's sales
+2025-03-15 15:38:37,687 - INFO - Database Connection Successfully!
+2025-03-15 15:38:37,688 - INFO - OB already initialized for today.
+2025-03-15 15:39:22,679 - INFO - Fetched today's sales
+2025-03-15 15:45:31,372 - INFO - Database Connection Successfully!
+2025-03-15 15:45:31,373 - INFO - OB already initialized for today.
+2025-03-15 15:45:43,155 - INFO - Fetched today's sales
+2025-03-15 15:49:17,996 - INFO - Database Connection Successfully!
+2025-03-15 15:49:17,997 - INFO - OB already initialized for today.
+2025-03-15 15:49:30,058 - INFO - Fetched today's sales
+2025-03-15 15:51:35,176 - INFO - Database Connection Successfully!
+2025-03-15 15:51:35,177 - INFO - OB already initialized for today.
+2025-03-15 15:51:50,947 - INFO - Fetched today's sales
+2025-03-15 15:51:52,568 - INFO - Fetched today's sales
+2025-03-15 15:51:53,345 - INFO - Fetched today's sales
+2025-03-15 15:52:36,099 - INFO - Database Connection Successfully!
+2025-03-15 15:52:36,100 - INFO - OB already initialized for today.
+2025-03-15 15:52:47,279 - INFO - Fetched today's sales
+2025-03-15 16:22:33,751 - INFO - Database Connection Successfully!
+2025-03-15 16:22:33,752 - INFO - OB already initialized for today.
+2025-03-15 16:22:45,213 - INFO - Fetched today's sales
+2025-03-15 16:23:15,787 - INFO - Database Connection Successfully!
+2025-03-15 16:23:15,820 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 16:23:54,966 - INFO - Database Connection Successfully!
+2025-03-15 16:23:54,967 - INFO - OB already initialized for today.
+2025-03-15 16:24:04,677 - INFO - Database Connection Successfully!
+2025-03-15 16:24:04,714 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 16:24:10,442 - INFO - Fetched today's sales
+2025-03-15 16:24:27,316 - INFO - Database Connection Successfully!
+2025-03-15 16:24:27,317 - INFO - OB already initialized for today.
+2025-03-15 17:12:04,992 - INFO - Database Connection Successfully!
+2025-03-15 17:12:04,992 - INFO - OB already initialized for today.
+2025-03-15 17:12:24,158 - INFO - Database Connection Successfully!
+2025-03-15 17:12:24,163 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:12:27,085 - INFO - Fetched today's sales
+2025-03-15 17:49:57,869 - INFO - Database Connection Successfully!
+2025-03-15 17:49:57,870 - INFO - OB already initialized for today.
+2025-03-15 17:50:35,685 - INFO - Database Connection Successfully!
+2025-03-15 17:50:35,693 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:51:11,129 - INFO - Database Connection Successfully!
+2025-03-15 17:51:11,140 - INFO - Stock Added Successfully for RS180
+2025-03-15 17:51:11,151 - INFO - Database Connection Successfully!
+2025-03-15 17:51:11,176 - INFO - Stock report updated for RS180 on 2025-03-15
+2025-03-15 17:51:11,648 - INFO - Database Connection Successfully!
+2025-03-15 17:51:11,649 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:51:51,797 - INFO - Database Connection Successfully!
+2025-03-15 17:51:51,805 - INFO - Stock Added Successfully for MP180
+2025-03-15 17:51:51,831 - INFO - Database Connection Successfully!
+2025-03-15 17:51:51,840 - INFO - Stock report updated for MP180 on 2025-03-15
+2025-03-15 17:51:52,237 - INFO - Database Connection Successfully!
+2025-03-15 17:51:52,238 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:52:00,112 - INFO - Database Connection Successfully!
+2025-03-15 17:52:00,116 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:52:07,420 - INFO - Database Connection Successfully!
+2025-03-15 17:52:07,439 - INFO - Sales Updated Successfully for product: MP180
+2025-03-15 17:52:07,457 - INFO - Database Connection Successfully!
+2025-03-15 17:52:07,464 - INFO - Sales report updated for MP180 on 2025-03-15
+2025-03-15 17:52:07,873 - INFO - Database Connection Successfully!
+2025-03-15 17:52:07,875 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:53:08,123 - INFO - Fetched today's sales
+2025-03-15 17:54:45,396 - INFO - Database Connection Successfully!
+2025-03-15 17:54:45,399 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:56:13,597 - INFO - Database Connection Successfully!
+2025-03-15 17:56:13,599 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:56:21,842 - INFO - Database Connection Successfully!
+2025-03-15 17:56:21,877 - INFO - Sales Updated Successfully for product: RS180
+2025-03-15 17:56:21,883 - INFO - Database Connection Successfully!
+2025-03-15 17:56:21,891 - INFO - Sales report updated for RS180 on 2025-03-15
+2025-03-15 17:56:22,306 - INFO - Database Connection Successfully!
+2025-03-15 17:56:22,307 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 17:56:29,719 - INFO - Fetched today's sales
+2025-03-15 21:43:01,923 - INFO - Database Connection Successfully!
+2025-03-15 21:43:01,930 - INFO - OB already initialized for today.
+2025-03-15 21:43:16,965 - INFO - Database Connection Successfully!
+2025-03-15 21:43:16,971 - INFO - Fetched all items from Liquor successfully.
+2025-03-15 21:43:35,866 - INFO - Database Connection Successfully!
+2025-03-15 21:43:35,906 - INFO - Sales Updated Successfully for product: MP180
+2025-03-15 21:43:35,915 - INFO - Database Connection Successfully!
+2025-03-15 21:43:35,939 - INFO - Sales report updated for MP180 on 2025-03-15
+2025-03-15 21:43:36,286 - INFO - Database Connection Successfully!
+2025-03-15 21:43:36,286 - INFO - Fetched all items from Liquor successfully.

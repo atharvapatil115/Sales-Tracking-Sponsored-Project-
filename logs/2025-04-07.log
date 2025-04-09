@@ -1,0 +1,34 @@
+2025-04-07 10:46:31,127 - ERROR - Invalid activation key attempt.
+2025-04-07 14:43:24,931 - ERROR - Invalid activation key attempt.
+2025-04-07 14:43:43,104 - INFO - Software activated for system e4:3e:8d:84:65:90 on 2025-04-07 14:43:43
+2025-04-07 14:43:43,980 - INFO - Database Connection Successfully!
+2025-04-07 14:43:43,985 - INFO - OB already initialized for today.
+2025-04-07 14:44:40,347 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-04-07.csv'
+2025-04-07 15:07:32,705 - INFO - Database Connection Successfully!
+2025-04-07 15:07:32,705 - INFO - OB already initialized for today.
+2025-04-07 15:46:59,232 - INFO - Database Connection Successfully!
+2025-04-07 15:46:59,238 - INFO - OB already initialized for today.
+2025-04-07 15:47:12,150 - INFO - Database Connection Successfully!
+2025-04-07 15:47:12,150 - INFO - OB already initialized for today.
+2025-04-07 15:47:31,837 - INFO - Database Connection Successfully!
+2025-04-07 15:47:31,838 - INFO - OB already initialized for today.
+2025-04-07 15:47:52,587 - INFO - Database Connection Successfully!
+2025-04-07 15:47:52,593 - INFO - Fetched all items from Liquor successfully.
+2025-04-07 15:48:30,860 - INFO - Database Connection Successfully!
+2025-04-07 15:48:30,861 - INFO - Fetched all items from Snacks successfully.
+2025-04-07 15:48:48,726 - INFO - Database Connection Successfully!
+2025-04-07 15:48:48,726 - INFO - OB already initialized for today.
+2025-04-07 15:50:41,184 - INFO - Database Connection Successfully!
+2025-04-07 15:50:41,185 - INFO - OB already initialized for today.
+2025-04-07 15:53:22,905 - INFO - Database Connection Successfully!
+2025-04-07 15:53:22,906 - INFO - OB already initialized for today.
+2025-04-07 15:53:31,842 - INFO - Database Connection Successfully!
+2025-04-07 15:53:31,843 - INFO - Fetched all items from Liquor successfully.
+2025-04-07 15:53:39,951 - INFO - Database Connection Successfully!
+2025-04-07 15:53:39,952 - INFO - Fetched all items from Snacks successfully.
+2025-04-07 15:53:47,286 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-04-07.csv'
+2025-04-07 15:53:49,011 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-04-07.csv'
+2025-04-07 16:07:00,916 - INFO - Database Connection Successfully!
+2025-04-07 16:07:00,916 - INFO - OB already initialized for today.
+2025-04-07 16:07:18,471 - INFO - Database Connection Successfully!
+2025-04-07 16:07:18,472 - INFO - OB already initialized for today.

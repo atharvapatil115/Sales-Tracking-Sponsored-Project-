@@ -1,0 +1,68 @@
+2025-03-21 14:38:30,864 - INFO - Database Connection Successfully!
+2025-03-21 14:38:30,882 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-21 14:38:51,941 - INFO - Database Connection Successfully!
+2025-03-21 14:38:51,976 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:39:29,194 - INFO - Database Connection Successfully!
+2025-03-21 14:39:29,195 - INFO - OB already initialized for today.
+2025-03-21 14:39:59,003 - INFO - Database Connection Successfully!
+2025-03-21 14:39:59,006 - INFO - Fetched all items from Snacks successfully.
+2025-03-21 14:40:03,519 - INFO - Database Connection Successfully!
+2025-03-21 14:40:03,552 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:40:09,456 - INFO - Database Connection Successfully!
+2025-03-21 14:40:09,462 - INFO - Stock Added Successfully for NO180
+2025-03-21 14:40:09,474 - INFO - Database Connection Successfully!
+2025-03-21 14:40:09,498 - INFO - Stock report updated for NO180 on 2025-03-21
+2025-03-21 14:40:09,889 - INFO - Database Connection Successfully!
+2025-03-21 14:40:09,890 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:40:30,790 - INFO - Database Connection Successfully!
+2025-03-21 14:40:30,792 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:40:34,806 - INFO - Database Connection Successfully!
+2025-03-21 14:40:34,842 - INFO - Sales Updated Successfully for product: NO180
+2025-03-21 14:40:34,865 - INFO - Database Connection Successfully!
+2025-03-21 14:40:34,880 - INFO - Sales report updated for NO180 on 2025-03-21
+2025-03-21 14:40:35,297 - INFO - Database Connection Successfully!
+2025-03-21 14:40:35,299 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:40:38,539 - INFO - Fetched today's sales
+2025-03-21 14:40:47,329 - INFO - Database Connection Successfully!
+2025-03-21 14:40:47,333 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:40:58,260 - INFO - Database Connection Successfully!
+2025-03-21 14:40:58,286 - INFO - Stock Added Successfully for RR180
+2025-03-21 14:40:58,291 - INFO - Database Connection Successfully!
+2025-03-21 14:40:58,298 - INFO - Stock report updated for RR180 on 2025-03-21
+2025-03-21 14:40:58,683 - INFO - Database Connection Successfully!
+2025-03-21 14:40:58,684 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:41:02,127 - INFO - Database Connection Successfully!
+2025-03-21 14:41:02,129 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:41:22,470 - INFO - Database Connection Successfully!
+2025-03-21 14:41:22,491 - INFO - Sales Updated Successfully for product: RR180
+2025-03-21 14:41:22,508 - INFO - Database Connection Successfully!
+2025-03-21 14:41:22,518 - INFO - Sales report updated for RR180 on 2025-03-21
+2025-03-21 14:41:22,568 - INFO - Database Connection Successfully!
+2025-03-21 14:41:22,569 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:41:30,359 - INFO - Fetched today's sales
+2025-03-21 14:41:56,994 - INFO - Database Connection Successfully!
+2025-03-21 14:41:56,995 - INFO - OB already initialized for today.
+2025-03-21 14:42:10,259 - INFO - Database Connection Successfully!
+2025-03-21 14:42:10,261 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:42:14,424 - INFO - Database Connection Successfully!
+2025-03-21 14:42:14,426 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:42:21,043 - INFO - Database Connection Successfully!
+2025-03-21 14:42:21,045 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:42:21,112 - INFO - Database Connection Successfully!
+2025-03-21 14:42:21,142 - INFO - Updated price for product ID : MF180
+2025-03-21 14:42:21,437 - INFO - Database Connection Successfully!
+2025-03-21 14:42:21,439 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:42:25,070 - INFO - Database Connection Successfully!
+2025-03-21 14:42:25,071 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 14:42:25,127 - INFO - Database Connection Successfully!
+2025-03-21 14:42:25,158 - INFO - Updated price for product ID : MF180
+2025-03-21 14:42:25,464 - INFO - Database Connection Successfully!
+2025-03-21 14:42:25,473 - INFO - Fetched all items from Liquor successfully.
+2025-03-21 20:49:19,601 - INFO - Database Connection Successfully!
+2025-03-21 20:49:19,607 - INFO - OB already initialized for today.
+2025-03-21 20:54:37,300 - INFO - Database Connection Successfully!
+2025-03-21 20:54:37,302 - INFO - OB already initialized for today.
+2025-03-21 21:00:24,164 - INFO - Database Connection Successfully!
+2025-03-21 21:00:24,166 - INFO - OB already initialized for today.
+2025-03-21 21:00:50,707 - INFO - Database Connection Successfully!
+2025-03-21 21:00:50,708 - INFO - OB already initialized for today.

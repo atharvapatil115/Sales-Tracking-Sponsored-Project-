@@ -1,0 +1,86 @@
+2025-03-31 11:30:28,875 - INFO - Software activated for system 49:6e:9d:e7:86:ec on 2025-03-31 11:30:28
+2025-03-31 11:30:29,541 - INFO - Database Connection Successfully!
+2025-03-31 11:30:29,543 - INFO - OB already initialized for today.
+2025-03-31 11:30:48,169 - INFO - Database Connection Successfully!
+2025-03-31 11:30:48,169 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 11:30:51,913 - INFO - Database Connection Successfully!
+2025-03-31 11:30:51,913 - ERROR - Insufficient Stock
+2025-03-31 11:30:51,913 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :2
+Available Stock : -1
+2025-03-31 11:30:51,916 - INFO - Database Connection Successfully!
+2025-03-31 11:31:00,239 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-31.csv'
+2025-03-31 11:31:08,344 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-31.csv'
+2025-03-31 11:31:09,395 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-31.csv'
+2025-03-31 11:38:03,841 - INFO - Database Connection Successfully!
+2025-03-31 11:38:03,853 - INFO - OB already initialized for today.
+2025-03-31 11:38:32,232 - INFO - Database Connection Successfully!
+2025-03-31 11:38:32,234 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 11:38:37,442 - INFO - Database Connection Successfully!
+2025-03-31 11:38:37,442 - ERROR - Insufficient Stock
+2025-03-31 11:38:37,442 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :3
+Available Stock : -1
+2025-03-31 11:38:37,449 - INFO - Database Connection Successfully!
+2025-03-31 11:39:39,648 - INFO - Database Connection Successfully!
+2025-03-31 11:39:39,651 - INFO - OB already initialized for today.
+2025-03-31 11:40:04,291 - INFO - Database Connection Successfully!
+2025-03-31 11:40:04,291 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 11:40:08,797 - INFO - Database Connection Successfully!
+2025-03-31 11:40:08,813 - INFO - Stock Added Successfully for MF180
+2025-03-31 11:40:08,814 - INFO - Database Connection Successfully!
+2025-03-31 11:40:13,505 - INFO - Database Connection Successfully!
+2025-03-31 11:40:13,505 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 11:40:20,968 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-31.csv'
+2025-03-31 12:10:36,417 - INFO - Database Connection Successfully!
+2025-03-31 12:10:36,418 - INFO - OB already initialized for today.
+2025-03-31 12:10:57,218 - INFO - Database Connection Successfully!
+2025-03-31 12:10:57,220 - INFO - Fetched all items from Snacks successfully.
+2025-03-31 12:10:59,976 - INFO - Database Connection Successfully!
+2025-03-31 12:10:59,983 - INFO - Sales Updated Successfully for product: S20
+2025-03-31 12:10:59,988 - INFO - Database Connection Successfully!
+2025-03-31 12:10:59,988 - INFO - Sales report updated for S20 on 2025-03-31
+2025-03-31 12:11:00,031 - INFO - Database Connection Successfully!
+2025-03-31 12:11:00,033 - INFO - Fetched all items from Snacks successfully.
+2025-03-31 12:11:05,781 - INFO - Database Connection Successfully!
+2025-03-31 12:11:05,781 - ERROR - Insufficient Stock
+2025-03-31 12:11:05,783 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :15
+Available Stock : -10
+2025-03-31 12:11:05,785 - INFO - Database Connection Successfully!
+2025-03-31 12:11:05,794 - INFO - Sales report updated for S20 on 2025-03-31
+2025-03-31 12:11:05,833 - INFO - Database Connection Successfully!
+2025-03-31 12:11:05,835 - INFO - Fetched all items from Snacks successfully.
+2025-03-31 12:11:16,506 - INFO - Database Connection Successfully!
+2025-03-31 12:11:16,511 - INFO - Fetched all items from Snacks successfully.
+2025-03-31 12:11:19,109 - INFO - Database Connection Successfully!
+2025-03-31 12:11:19,110 - INFO - Stock Added Successfully for S20
+2025-03-31 12:11:19,117 - INFO - Database Connection Successfully!
+2025-03-31 12:11:19,123 - INFO - Stock report updated for S20 on 2025-03-31
+2025-03-31 12:11:19,141 - INFO - Database Connection Successfully!
+2025-03-31 12:11:19,156 - INFO - Fetched all items from Snacks successfully.
+2025-03-31 12:11:21,432 - INFO - Fetched today's sales
+2025-03-31 12:11:36,086 - INFO - Database Connection Successfully!
+2025-03-31 12:11:36,086 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 12:11:42,154 - INFO - Database Connection Successfully!
+2025-03-31 12:11:42,154 - ERROR - Insufficient Stock
+2025-03-31 12:11:42,154 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :9999
+Available Stock : -507
+2025-03-31 12:11:42,158 - INFO - Database Connection Successfully!
+2025-03-31 12:11:42,158 - INFO - Sales report updated for MF180 on 2025-03-31
+2025-03-31 12:11:42,538 - INFO - Database Connection Successfully!
+2025-03-31 12:11:42,545 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 12:11:50,136 - INFO - Database Connection Successfully!
+2025-03-31 12:11:50,139 - INFO - Sales Updated Successfully for product: MF180
+2025-03-31 12:11:50,145 - INFO - Database Connection Successfully!
+2025-03-31 12:11:50,148 - INFO - Sales report updated for MF180 on 2025-03-31
+2025-03-31 12:11:50,497 - INFO - Database Connection Successfully!
+2025-03-31 12:11:50,512 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 12:11:55,163 - INFO - Database Connection Successfully!
+2025-03-31 12:11:55,168 - INFO - Sales Updated Successfully for product: MF180
+2025-03-31 12:11:55,170 - INFO - Database Connection Successfully!
+2025-03-31 12:11:55,174 - INFO - Sales report updated for MF180 on 2025-03-31
+2025-03-31 12:11:55,555 - INFO - Database Connection Successfully!
+2025-03-31 12:11:55,555 - INFO - Fetched all items from Liquor successfully.
+2025-03-31 12:11:59,288 - INFO - Fetched today's sales

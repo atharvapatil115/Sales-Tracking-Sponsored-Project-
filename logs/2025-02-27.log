@@ -1,0 +1,277 @@
+2025-02-27 15:46:53,880 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:46:54,491 - INFO - Database Connection Successfully!
+2025-02-27 15:46:54,491 - ERROR - Error occured while intserting the items into the databases unrecognized token: "" INSERT INTO Liquor (ID, Brand_name, Price, Added, Opening_Balance, Closing_Balance, Total_Sale) VALUES
+('RS180', 'R.Stag (180ml)', 240, 0, 0, 0, 0),
+('NO180', 'No.1 (180ml)', 210, 0, 0, 0, 0),
+('MP180', 'MagicP (180ml)', 0, 0, 0, 0, 0),
+('MF180', 'MagicF (180ml)', 0, 0, 0, 0, 0),
+('RP180', 'Rom.P (180ml)', 0, 0, 0, 0, 0),
+('RF180', 'Rom.F (180ml)', 0, 0, 0, 0, 0),
+('WM180', 'WMC P (180ml)', 0, 0, 0, 0, 0),
+('IB180', 'IB (180ml)', 210, 0, 0, 0, 0),
+('DS180', 'DSP(B) (180ml)', 200, 0, 0, 0, 0),
+('BP180', 'BP (180ml)', 0, 0, 0, 0, 0),
+('OC180', 'O.C (180ml)', 0, 0, 0, 0, 0),
+('OB180', 'O.C.Blue (180ml)', 0, 0, 0, 0, 0),
+('8P180', '8PM (180ml)', 0, 0, 0, 0, 0),
+('RR180', 'R.Rum (180ml)', 170, 0, 0, 0, 0),
+('OM180', 'OM (180ml)', 0, 0, 0, 0, 0),
+('HY180', 'Hayward (180ml)', 0, 0, 0, 0, 0),
+('DC180', 'Doctor (180ml)', 150, 0, 0, 0, 0),
+('GG180', 'GoaGin (180ml)', 150, 0, 0, 0, 0),
+('RC180', 'RC (180ml)', 240, 0, 0, 0, 0),
+('SG180', 'Signature (180ml)', 0, 0, 0, 0, 0),
+('BP180', 'B.Pride (180ml)', 450, 0, 0, 0, 0),
+('GM180', 'G.M.F. (180ml)', 270, 0, 0, 0, 0),
+('BA180', 'Bacardi(B) (180ml)', 220, 0, 0, 0, 0),
+('B7_180', 'B7 (180ml)', 240, 0, 0, 0, 0),
+('OKG180', 'Oksmith(G) (180ml)', 0, 0, 0, 0, 0),
+('OKS180', 'Oksmith(S) (180ml)', 0, 0, 0, 0, 0),
+('SB180', 'S.Ball(F) (180ml)', 0, 0, 0, 0, 0),
+('RSB180', 'R.S.(B) (180ml)', 0, 0, 0, 0, 0),
+('RF180', 'R.Ford (180ml)', 0, 0, 0, 0, 0),
+('MB180', 'M.B. (180ml)', 0, 0, 0, 0, 0),
+('AP180', 'AmericanPride (180ml)', 370, 0, 0, 0, 0),
+('BD180', 'BlackDog (180ml)', 0, 0, 0, 0, 0),
+('BG180', 'BlackDogGold (180ml)', 0, 0, 0, 0, 0),
+('RF180', 'RockFord (180ml)', 0, 0, 0, 0, 0),
+('V69_180', 'Vat69 (180ml)', 0, 0, 0, 0, 0),
+('RL180', 'RedLabel (180ml)', 0, 0, 0, 0, 0),
+('GL180', 'GreenLabel (180ml)', 0, 0, 0, 0, 0),
+('SM180', 'SimronOff (180ml)', 0, 0, 0, 0, 0),
+('RG180', 'RoyalGreen (180ml)', 250, 0, 0, 0, 0),
+('BW180', 'Black&White (180ml)', 0, 0, 0, 0, 0),
+('BB180', 'BlackBakardi(PL) (180ml)', 0, 0, 0, 0, 0),
+('100P180', '100Piper (180ml)', 0, 0, 0, 0, 0),
+('JD180', 'JackDaniels (180ml)', 0, 0, 0, 0, 0),
+('BW180', 'BacardiW (180ml)', 0, 0, 0, 0, 0),
+('TC180', 'Teachers (180ml)', 0, 0, 0, 0, 0),
+('AQ180', 'Antiquity (180ml)', 0, 0, 0, 0, 0),
+('NO180', 'No1(L) (180ml)', 210, 0, 0, 0, 0),
+('RS90', 'RoyalStag (90ml)', 130, 0, 0, 0, 0),
+('NO90', 'No.1 (90ml)', 110, 0, 0, 0, 0),
+('MP90', 'MagicP (90ml)', 0, 0, 0, 0, 0),
+('MF90', 'MagicF (90ml)', 0, 0, 0, 0, 0),
+('WM90', 'WMC (90ml)', 0, 0, 0, 0, 0),
+('RP90', 'RomanovP (90ml)', 0, 0, 0, 0, 0),
+('RF90', 'RomanovF (90ml)', 0, 0, 0, 0, 0),
+('IB90', 'IB (90ml)', 110, 0, 0, 0, 0),
+('DS90', 'DSP(B) (90ml)', 100, 0, 0, 0, 0),
+('BP90', 'BP (90ml)', 0, 0, 0, 0, 0),
+('OC90', 'O.C (90ml)', 0, 0, 0, 0, 0),
+('OM90', 'OM (90ml)', 0, 0, 0, 0, 0),
+('8P90', '8PM (90ml)', 0, 0, 0, 0, 0),
+('RR90', 'R.Rum (90ml)', 100, 0, 0, 0, 0),
+('DC90', 'Doctor (90ml)', 80, 0, 0, 0, 0),
+('B7_90', 'B7 (90ml)', 130, 0, 0, 0, 0),
+('GG90', 'GoaGin (90ml)', 0, 0, 0, 0, 0),
+('RC90', 'RC (90ml)', 0, 0, 0, 0, 0),
+('BP90', 'BlendersPride (90ml)', 230, 0, 0, 0, 0),
+('SG90', 'Signature (90ml)', 0, 0, 0, 0, 0),
+('MB90', 'M.B. (90ml)', 0, 0, 0, 0, 0),
+('GM90', 'GrandMasterF (90ml)', 0, 0, 0, 0, 0),
+('RB90', 'RoyalStagBarrel (90ml)', 0, 0, 0, 0, 0),
+('RG90', 'RoyalGreen (90ml)', 130, 0, 0, 0, 0)
+('CB650', 'Carlsberg (650ml)', 0, 0, 0, 0, 0),
+('KF650', 'Kingfisher (650ml)', 240, 0, 0, 0, 0),
+('KO650', 'Knockout (650ml)', 0, 0, 0, 0, 0),
+('TB650', 'Tuborg (650ml)', 240, 0, 0, 0, 0),
+('TC650', 'TuborgClassic (650ml)', 0, 0, 0, 0, 0),
+('BW650', 'Budweiser (650ml)', 0, 0, 0, 0, 0),
+('LP650', 'L.P. (650ml)', 0, 0, 0, 0, 0),
+('HY650', 'Haywards2000 (650ml)', 0, 0, 0, 0, 0),
+('RC650', 'RC (650ml)', 0, 0, 0, 0, 0),
+('XX650', 'XX (650ml)', 0, 0, 0, 0, 0),
+
+('KF500', 'Kingfisher (500ml)', 0, 0, 0, 0, 0),
+('TB500', 'Tuborg (500ml)', 0, 0, 0, 0, 0),
+('BW500', 'Budweiser (500ml)', 0, 0, 0, 0, 0),
+('RC500', 'RC (500ml)', 0, 0, 0, 0, 0),
+('LP500', 'L.P. (500ml)', 0, 0, 0, 0, 0),
+('HY500', 'Haywards2000 (500ml)', 0, 0, 0, 0, 0),
+('XX500', 'XX (500ml)', 0, 0, 0, 0, 0),
+
+('SB330', '330ml Strong Beer', 0, 0, 0, 0, 0),
+('KF330', 'Kingfisher (330ml)', 0, 0, 0, 0, 0),
+('TB330', 'Tuborg (330ml)', 150, 0, 0, 0, 0),
+
+('MB650', '650ml Mild Beer', 0, 0, 0, 0, 0),
+('KF650', 'Kingfisher (650ml)', 0, 0, 0, 0, 0),
+('TB650', 'Tuborg (650ml)', 0, 0, 0, 0, 0),
+('CB650', 'Carlsberg (650ml)', 0, 0, 0, 0, 0),
+('BW650', 'Budweiser (650ml)', 0, 0, 0, 0, 0),
+('LP650', 'L.P. (650ml)', 0, 0, 0, 0, 0),
+
+('MB500', '500ml Mild Beer', 0, 0, 0, 0, 0),
+('KF500', 'Kingfisher (500ml)', 0, 0, 0, 0, 0),
+('BW500', 'Budweiser (500ml)', 0, 0, 0, 0, 0),
+('CB500', 'Carlsberg (500ml)', 0, 0, 0, 0, 0),
+('TB500', 'Tuborg (500ml)', 0, 0, 0, 0, 0),
+('LP500', 'L.P. (500ml)', 0, 0, 0, 0, 0);
+"
+2025-02-27 15:47:42,578 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:47:42,900 - INFO - Database Connection Successfully!
+2025-02-27 15:47:42,903 - ERROR - Error occured while intserting the items into the databases near "(": syntax error
+2025-02-27 15:49:08,359 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:49:08,650 - INFO - Database Connection Successfully!
+2025-02-27 15:49:08,651 - ERROR - Error occured while intserting the items into the databases UNIQUE constraint failed: Liquor.ID
+2025-02-27 15:54:08,119 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:54:08,387 - INFO - Database Connection Successfully!
+2025-02-27 15:54:08,388 - ERROR - Error occured while intserting the items into the databases incomplete input
+2025-02-27 15:57:00,197 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:57:00,483 - INFO - Database Connection Successfully!
+2025-02-27 15:57:00,486 - ERROR - Error occured while intserting the items into the databases UNIQUE constraint failed: Liquor.ID
+2025-02-27 15:59:16,334 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 15:59:16,608 - INFO - Database Connection Successfully!
+2025-02-27 15:59:16,617 - INFO - Items addedd successfully into the database
+2025-02-27 15:59:54,214 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:00:06,687 - INFO - Database Connection Successfully!
+2025-02-27 16:00:06,688 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:00:26,344 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:00:38,133 - INFO - Database Connection Successfully!
+2025-02-27 16:00:38,143 - INFO - Stock Added Successfully for RS180
+2025-02-27 16:00:38,146 - INFO - Database Connection Successfully!
+2025-02-27 16:01:14,310 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:01:22,241 - INFO - Database Connection Successfully!
+2025-02-27 16:01:22,243 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:02:39,902 - INFO - Database Connection Successfully!
+2025-02-27 16:02:39,911 - INFO - Sales Updated Successfully for product: RS180
+2025-02-27 16:02:39,917 - INFO - Database Connection Successfully!
+2025-02-27 16:02:39,937 - INFO - Sales report updated for RS180 on 2025-02-27
+2025-02-27 16:02:39,938 - INFO - Sold 4  items of product id RS180!
+2025-02-27 16:03:04,779 - INFO - Fetched todays sales
+2025-02-27 16:07:57,642 - INFO - Database Connection Successfully!
+2025-02-27 16:07:57,646 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:08:15,908 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:08:29,032 - INFO - Database Connection Successfully!
+2025-02-27 16:08:29,038 - ERROR - Unable to add Stock: no such column: Opening_Balance
+2025-02-27 16:08:29,045 - INFO - Database Connection Successfully!
+2025-02-27 16:08:29,053 - INFO - Stock report updated for R125 on 2025-02-27
+2025-02-27 16:09:29,411 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:09:34,242 - INFO - Database Connection Successfully!
+2025-02-27 16:09:34,243 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:09:50,264 - INFO - Database Connection Successfully!
+2025-02-27 16:09:50,269 - ERROR - Unable to add Stock: no such column: Opening_Balance
+2025-02-27 16:09:50,289 - INFO - Database Connection Successfully!
+2025-02-27 16:09:50,304 - INFO - Stock report updated for R125 on 2025-02-27
+2025-02-27 16:12:41,917 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:12:51,577 - INFO - Database Connection Successfully!
+2025-02-27 16:12:51,587 - INFO - Stock Added Successfully for R125
+2025-02-27 16:12:51,595 - INFO - Database Connection Successfully!
+2025-02-27 16:12:51,602 - INFO - Stock report updated for R125 on 2025-02-27
+2025-02-27 16:12:51,602 - ERROR - Exception for OB:<class 'Exception'>
+2025-02-27 16:12:51,602 - INFO - 15 items added of ColdDrinks in stock
+2025-02-27 16:13:12,844 - INFO - Database Connection Successfully!
+2025-02-27 16:13:12,844 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:14:08,915 - INFO - Database Connection Successfully!
+2025-02-27 16:14:08,921 - INFO - Sales Updated Successfully for product: R125
+2025-02-27 16:14:08,940 - INFO - Database Connection Successfully!
+2025-02-27 16:14:08,948 - INFO - Sales report updated for R125 on 2025-02-27
+2025-02-27 16:14:08,949 - INFO - Sold 3  items of product id R125!
+2025-02-27 16:14:19,899 - INFO - Database Connection Successfully!
+2025-02-27 16:14:19,901 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:14:33,003 - INFO - Database Connection Successfully!
+2025-02-27 16:14:33,013 - INFO - Stock Added Successfully for S25
+2025-02-27 16:14:33,018 - INFO - Database Connection Successfully!
+2025-02-27 16:14:33,023 - INFO - Stock report updated for S25 on 2025-02-27
+2025-02-27 16:14:33,024 - ERROR - Exception for OB:<class 'Exception'>
+2025-02-27 16:14:33,024 - INFO - 50 items added of Snacks in stock
+2025-02-27 16:15:16,144 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:15:24,877 - INFO - Database Connection Successfully!
+2025-02-27 16:15:24,887 - INFO - Sales Updated Successfully for product: S25
+2025-02-27 16:15:24,900 - INFO - Database Connection Successfully!
+2025-02-27 16:15:24,906 - INFO - Sales report updated for S25 on 2025-02-27
+2025-02-27 16:15:24,907 - INFO - Sold 35  items of product id S25!
+2025-02-27 16:16:03,325 - INFO - Fetched todays sales
+2025-02-27 16:16:39,957 - INFO - Database Connection Successfully!
+2025-02-27 16:16:39,957 - ERROR - Insufficient Stock
+2025-02-27 16:16:39,958 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :50
+Available Stock : -35
+2025-02-27 16:16:39,962 - INFO - Database Connection Successfully!
+2025-02-27 16:16:39,969 - INFO - Sales report updated for S25 on 2025-02-27
+2025-02-27 16:16:39,970 - INFO - Sold 50  items of product id S25!
+2025-02-27 16:16:54,600 - INFO - Database Connection Successfully!
+2025-02-27 16:16:54,601 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:17:08,956 - INFO - Fetched todays sales
+2025-02-27 16:17:31,402 - INFO - Database Connection Successfully!
+2025-02-27 16:17:31,403 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:17:53,157 - INFO - Database Connection Successfully!
+2025-02-27 16:17:53,165 - INFO - Stock Added Successfully for NO180
+2025-02-27 16:17:53,173 - INFO - Database Connection Successfully!
+2025-02-27 16:17:53,178 - INFO - Stock report updated for NO180 on 2025-02-27
+2025-02-27 16:17:53,178 - ERROR - Exception for OB:<class 'Exception'>
+2025-02-27 16:17:53,178 - INFO - 50 items added of Liquor in stock
+2025-02-27 16:17:57,147 - INFO - Database Connection Successfully!
+2025-02-27 16:17:57,149 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:18:14,480 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:18:35,226 - INFO - Database Connection Successfully!
+2025-02-27 16:18:35,237 - INFO - Sales Updated Successfully for product: NO180
+2025-02-27 16:18:35,245 - INFO - Database Connection Successfully!
+2025-02-27 16:18:35,252 - INFO - Sales report updated for NO180 on 2025-02-27
+2025-02-27 16:18:35,252 - INFO - Sold 5  items of product id NO180!
+2025-02-27 16:18:39,396 - INFO - Fetched todays sales
+2025-02-27 16:20:17,335 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:20:27,973 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:20:30,552 - INFO - Database Connection Successfully!
+2025-02-27 16:20:30,554 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:20:41,277 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:20:53,407 - INFO - Database Connection Successfully!
+2025-02-27 16:20:53,439 - INFO - Stock Added Successfully for S10
+2025-02-27 16:20:53,449 - INFO - Database Connection Successfully!
+2025-02-27 16:20:53,455 - INFO - Stock report updated for S10 on 2025-02-27
+2025-02-27 16:20:53,455 - ERROR - Exception for OB:<class 'Exception'>
+2025-02-27 16:20:53,455 - INFO - 50 items added of Snacks in stock
+2025-02-27 16:21:02,940 - INFO - Database Connection Successfully!
+2025-02-27 16:21:02,940 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:21:42,532 - INFO - Database Connection Successfully!
+2025-02-27 16:21:42,541 - INFO - Sales Updated Successfully for product: S10
+2025-02-27 16:21:42,550 - INFO - Database Connection Successfully!
+2025-02-27 16:21:42,557 - INFO - Sales report updated for S10 on 2025-02-27
+2025-02-27 16:21:42,558 - INFO - Sold 10  items of product id S10!
+2025-02-27 16:21:46,053 - INFO - Fetched todays sales
+2025-02-27 16:22:09,780 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:22:25,973 - INFO - Database Connection Successfully!
+2025-02-27 16:22:26,005 - INFO - Sales Updated Successfully for product: S10
+2025-02-27 16:22:26,018 - INFO - Database Connection Successfully!
+2025-02-27 16:22:26,026 - INFO - Sales report updated for S10 on 2025-02-27
+2025-02-27 16:22:26,026 - INFO - Sold 15  items of product id S10!
+2025-02-27 16:22:27,812 - INFO - Fetched todays sales
+2025-02-27 16:22:48,086 - INFO - Database Connection Successfully!
+2025-02-27 16:22:48,093 - INFO - Sales Updated Successfully for product: S10
+2025-02-27 16:22:48,104 - INFO - Database Connection Successfully!
+2025-02-27 16:22:48,110 - INFO - Sales report updated for S10 on 2025-02-27
+2025-02-27 16:22:48,110 - INFO - Sold 10  items of product id S10!
+2025-02-27 16:22:49,325 - INFO - Fetched todays sales
+2025-02-27 16:26:16,572 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:28:49,869 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:28:57,884 - INFO - Database Connection Successfully!
+2025-02-27 16:28:57,894 - INFO - Sales Updated Successfully for product: S10
+2025-02-27 16:28:57,902 - INFO - Database Connection Successfully!
+2025-02-27 16:28:57,911 - INFO - Sales report updated for S10 on 2025-02-27
+2025-02-27 16:28:57,911 - INFO - Sold 5  items of product id S10!
+2025-02-27 16:28:59,800 - INFO - Fetched todays sales
+2025-02-27 16:30:58,744 - INFO - Database Connection Successfully!
+2025-02-27 16:30:58,745 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:31:15,372 - INFO - Database Connection Successfully!
+2025-02-27 16:31:15,387 - INFO - Stock Added Successfully for TB330
+2025-02-27 16:31:36,843 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:31:47,198 - INFO - Database Connection Successfully!
+2025-02-27 16:31:47,206 - INFO - Stock Added Successfully for TB330
+2025-02-27 16:31:47,212 - INFO - Database Connection Successfully!
+2025-02-27 16:31:47,218 - INFO - Stock report updated for TB330 on 2025-02-27
+2025-02-27 16:31:47,218 - ERROR - Exception for OB:<class 'Exception'>
+2025-02-27 16:31:47,218 - INFO - 5 items added of Liquor in stock
+2025-02-27 16:32:10,080 - INFO - Database Connection Successfully!
+2025-02-27 16:32:10,093 - INFO - Sales Updated Successfully for product: TB330
+2025-02-27 16:32:10,100 - INFO - Database Connection Successfully!
+2025-02-27 16:32:10,113 - INFO - Sales report updated for TB330 on 2025-02-27
+2025-02-27 16:32:10,113 - INFO - Sold 50  items of product id TB330!
+2025-02-27 16:32:12,669 - INFO - Fetched todays sales
+2025-02-27 16:32:33,806 - INFO - NumExpr defaulting to 8 threads.
+2025-02-27 16:32:36,610 - INFO - Database Connection Successfully!
+2025-02-27 16:32:36,611 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:32:39,647 - INFO - Database Connection Successfully!
+2025-02-27 16:32:39,647 - INFO - Fetched all the information from the database about the items!
+2025-02-27 16:32:41,289 - INFO - Database Connection Successfully!
+2025-02-27 16:32:41,290 - INFO - Fetched all the information from the database about the items!

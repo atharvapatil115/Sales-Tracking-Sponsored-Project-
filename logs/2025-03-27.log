@@ -1,0 +1,76 @@
+2025-03-27 14:25:08,721 - INFO - Software activated for system 49:6e:9d:e7:86:ec on 2025-03-27 14:25:08
+2025-03-27 14:25:10,015 - INFO - Database Connection Successfully!
+2025-03-27 14:25:10,029 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-27 14:48:32,829 - INFO - Database Connection Successfully!
+2025-03-27 14:48:32,849 - INFO - OB already initialized for today.
+2025-03-27 14:48:51,131 - INFO - Database Connection Successfully!
+2025-03-27 14:48:51,161 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:48:58,654 - INFO - Database Connection Successfully!
+2025-03-27 14:48:58,656 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-27 14:49:05,345 - INFO - Database Connection Successfully!
+2025-03-27 14:49:05,354 - INFO - Stock Added Successfully for R125
+2025-03-27 14:49:05,363 - INFO - Database Connection Successfully!
+2025-03-27 14:49:05,388 - INFO - Stock report updated for R125 on 2025-03-27
+2025-03-27 14:49:05,472 - INFO - Database Connection Successfully!
+2025-03-27 14:49:05,473 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-27 14:49:09,400 - INFO - Database Connection Successfully!
+2025-03-27 14:49:09,401 - INFO - Fetched all items from Snacks successfully.
+2025-03-27 14:49:14,350 - INFO - Database Connection Successfully!
+2025-03-27 14:49:14,357 - INFO - Stock Added Successfully for S20
+2025-03-27 14:49:14,376 - INFO - Database Connection Successfully!
+2025-03-27 14:49:14,387 - INFO - Stock report updated for S20 on 2025-03-27
+2025-03-27 14:49:14,439 - INFO - Database Connection Successfully!
+2025-03-27 14:49:14,440 - INFO - Fetched all items from Snacks successfully.
+2025-03-27 14:49:19,701 - INFO - Database Connection Successfully!
+2025-03-27 14:49:19,703 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:49:24,441 - INFO - Database Connection Successfully!
+2025-03-27 14:49:24,446 - INFO - Stock Added Successfully for MF180
+2025-03-27 14:49:24,464 - INFO - Database Connection Successfully!
+2025-03-27 14:49:24,475 - INFO - Stock report updated for MF180 on 2025-03-27
+2025-03-27 14:49:24,971 - INFO - Database Connection Successfully!
+2025-03-27 14:49:24,973 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:49:27,458 - INFO - Database Connection Successfully!
+2025-03-27 14:49:27,460 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:49:31,123 - INFO - Database Connection Successfully!
+2025-03-27 14:49:31,129 - INFO - Sales Updated Successfully for product: MP180
+2025-03-27 14:49:31,145 - INFO - Database Connection Successfully!
+2025-03-27 14:49:31,152 - INFO - Sales report updated for MP180 on 2025-03-27
+2025-03-27 14:49:31,651 - INFO - Database Connection Successfully!
+2025-03-27 14:49:31,653 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:49:34,562 - INFO - Database Connection Successfully!
+2025-03-27 14:49:34,568 - INFO - Sales Updated Successfully for product: MF180
+2025-03-27 14:49:34,586 - INFO - Database Connection Successfully!
+2025-03-27 14:49:34,599 - INFO - Sales report updated for MF180 on 2025-03-27
+2025-03-27 14:49:35,104 - INFO - Database Connection Successfully!
+2025-03-27 14:49:35,106 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:49:37,333 - INFO - Database Connection Successfully!
+2025-03-27 14:49:37,334 - INFO - Fetched all items from Snacks successfully.
+2025-03-27 14:49:40,660 - INFO - Database Connection Successfully!
+2025-03-27 14:49:40,695 - INFO - Sales Updated Successfully for product: S20
+2025-03-27 14:49:40,713 - INFO - Database Connection Successfully!
+2025-03-27 14:49:40,722 - INFO - Sales report updated for S20 on 2025-03-27
+2025-03-27 14:49:40,772 - INFO - Database Connection Successfully!
+2025-03-27 14:49:40,773 - INFO - Fetched all items from Snacks successfully.
+2025-03-27 14:49:42,674 - INFO - Database Connection Successfully!
+2025-03-27 14:49:42,681 - INFO - Sales Updated Successfully for product: S25
+2025-03-27 14:49:42,700 - INFO - Database Connection Successfully!
+2025-03-27 14:49:42,706 - INFO - Sales report updated for S25 on 2025-03-27
+2025-03-27 14:49:42,761 - INFO - Database Connection Successfully!
+2025-03-27 14:49:42,762 - INFO - Fetched all items from Snacks successfully.
+2025-03-27 14:49:44,816 - INFO - Database Connection Successfully!
+2025-03-27 14:49:44,818 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-27 14:49:47,763 - INFO - Database Connection Successfully!
+2025-03-27 14:49:47,769 - INFO - Sales Updated Successfully for product: R125
+2025-03-27 14:49:47,788 - INFO - Database Connection Successfully!
+2025-03-27 14:49:47,796 - INFO - Sales report updated for R125 on 2025-03-27
+2025-03-27 14:49:47,868 - INFO - Database Connection Successfully!
+2025-03-27 14:49:47,871 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-27 14:49:51,703 - INFO - Fetched today's sales
+2025-03-27 14:50:04,309 - INFO - Fetched today's sales
+2025-03-27 14:50:23,413 - INFO - Database Connection Successfully!
+2025-03-27 14:50:23,414 - INFO - Fetched all items from Liquor successfully.
+2025-03-27 14:50:37,872 - INFO - Fetched today's sales
+2025-03-27 14:59:07,695 - INFO - Database Connection Successfully!
+2025-03-27 14:59:07,704 - INFO - OB already initialized for today.
+2025-03-27 14:59:21,162 - INFO - Database Connection Successfully!
+2025-03-27 14:59:21,167 - INFO - Fetched all items from Liquor successfully.

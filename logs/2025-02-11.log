@@ -1,0 +1,65 @@
+2025-02-11 20:55:58,724 - INFO - Database Connection Successfully!
+2025-02-11 20:55:58,735 - INFO - Stock Added Successfully for sn10
+2025-02-11 20:59:57,605 - INFO - Database Connection Successfully!
+2025-02-11 20:59:57,611 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:01:01,213 - INFO - Database Connection Successfully!
+2025-02-11 21:01:01,220 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:01:01,236 - INFO - Database Connection Successfully!
+2025-02-11 21:02:16,422 - INFO - Database Connection Successfully!
+2025-02-11 21:02:16,429 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:02:16,434 - INFO - Database Connection Successfully!
+2025-02-11 21:11:54,452 - INFO - Database Connection Successfully!
+2025-02-11 21:11:54,486 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:11:54,498 - INFO - Database Connection Successfully!
+2025-02-11 21:12:55,429 - INFO - Database Connection Successfully!
+2025-02-11 21:12:55,464 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:12:55,469 - INFO - Database Connection Successfully!
+2025-02-11 21:13:30,371 - INFO - Database Connection Successfully!
+2025-02-11 21:13:30,405 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:13:30,412 - INFO - Database Connection Successfully!
+2025-02-11 21:13:39,152 - INFO - Database Connection Successfully!
+2025-02-11 21:13:39,153 - ERROR - Insufficient Stock
+2025-02-11 21:13:39,153 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :25
+Available Stock : -19
+2025-02-11 21:13:39,158 - INFO - Database Connection Successfully!
+2025-02-11 21:13:59,960 - INFO - Database Connection Successfully!
+2025-02-11 21:13:59,983 - INFO - Stock Added Successfully for sn10
+2025-02-11 21:14:09,721 - INFO - Database Connection Successfully!
+2025-02-11 21:14:09,755 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:14:09,761 - INFO - Database Connection Successfully!
+2025-02-11 21:16:24,178 - INFO - Database Connection Successfully!
+2025-02-11 21:16:24,185 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:16:24,196 - INFO - Database Connection Successfully!
+2025-02-11 21:16:24,200 - INFO - Report for 2025-02-11 successfully generated
+2025-02-11 21:16:56,150 - INFO - Database Connection Successfully!
+2025-02-11 21:16:56,157 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 21:16:56,167 - INFO - Database Connection Successfully!
+2025-02-11 21:16:56,169 - INFO - Report for 2025-02-11 successfully generated
+2025-02-11 23:10:54,863 - INFO - Database Connection Successfully!
+2025-02-11 23:10:54,877 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 23:10:54,889 - INFO - Database Connection Successfully!
+2025-02-11 23:10:54,893 - INFO - Report for 2025-02-11 successfully generated
+2025-02-11 23:12:24,596 - INFO - Database Connection Successfully!
+2025-02-11 23:12:24,630 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 23:12:24,636 - INFO - Database Connection Successfully!
+2025-02-11 23:12:24,641 - INFO - Report for 2025-02-11 successfully generated
+2025-02-11 23:13:14,367 - INFO - Database Connection Successfully!
+2025-02-11 23:13:14,375 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 23:13:14,381 - INFO - Database Connection Successfully!
+2025-02-11 23:14:23,797 - INFO - Database Connection Successfully!
+2025-02-11 23:14:23,797 - ERROR - Insufficient Stock
+2025-02-11 23:14:23,797 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :25
+Available Stock : -19
+2025-02-11 23:14:23,802 - INFO - Database Connection Successfully!
+2025-02-11 23:15:27,878 - INFO - Database Connection Successfully!
+2025-02-11 23:15:27,879 - ERROR - Insufficient Stock
+2025-02-11 23:15:27,879 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :25
+Available Stock : -19
+2025-02-11 23:15:27,883 - INFO - Database Connection Successfully!
+2025-02-11 23:17:02,187 - INFO - Database Connection Successfully!
+2025-02-11 23:17:02,221 - INFO - Sales Updated Successfully for product: sn10
+2025-02-11 23:17:02,230 - INFO - Database Connection Successfully!
+2025-02-11 23:17:02,236 - INFO - Report for 2025-02-11 successfully generated

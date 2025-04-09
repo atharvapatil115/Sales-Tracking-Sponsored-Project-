@@ -1,0 +1,110 @@
+    sr,name,price
+    1., R.Stag(180ml),240
+    2., No.1(180ml) ,210
+    3., MagicP(180ml)  ,
+    4., MagicF(180ml)  
+    5., Rom.P(180ml)  
+    6., Rom.F(180ml)  
+    7., WMC P(180ml)  
+    8., IB(180ml)  ,210
+    9., DSP(B)(180ml)  ,200
+    10., BP(180ml)  
+    11., O.C(180ml)  
+    12., O.C.Blue(180ml)  
+    13., 8PM(180ml)  
+    14., R.Rum(180ml)  , 170
+    15., OM(180ml)  
+    16., Hayward(180ml)  
+    17., Doctor(180ml)  ,150
+    18., GoaGin(180ml)  ,150
+    19., RC(180ml)  ,240
+    20., Signature(180ml)  
+    21., B.Pride(180ml)  ,450
+    22., G.M.F.(180ml)  ,270
+    23., Bacardi(B)(180ml)  ,220
+    24., B7(180ml)  ,240
+    25., Oksmith(G)(180ml)  
+    26., Oksmith(S)(180ml)  
+    27., S.Ball(F)(180ml)  
+    28., R.S.(B)(180ml)  
+    29., R.Ford(180ml)  
+    30., M.B.(180ml)  
+    31., AmericanPride(180ml)  ,370
+    32., BlackDog(180ml)  
+    33., BlackDogGold(180ml)  
+    34., RockFord(180ml)  
+    35., Vat69(180ml)  
+    36., RedLabel(180ml)  
+    37., GreenLabel(180ml)  
+    38., SimronOff(180ml)  
+    39., RoyalGreen(180ml)  ,250
+    40., Black&White(180ml)  
+    41., BlackBakardi(PL)(180ml)  
+    42., 100Piper(180ml)  
+    43., JackDaniels(180ml)  
+    44. ,BacardiW(180ml)  
+    45. ,Teachers(180ml)  
+    46. ,Antiquity(180ml)  
+    47. ,No1(L)(180ml)  ,210
+    1. ,RoyalStag(90ml)  ,130
+    2. ,No.1(90ml)  ,110
+    3. ,MagicP(90ml)  
+    4. ,MagicF(90ml)  
+    5. ,WMC(90ml)  
+    6. ,RomanovP(90ml)  
+    7. ,RomanovF(90ml)  
+    8. ,IB(90ml)  ,110
+    9. ,DSP(B)(90ml)  ,100
+    10. ,BP(90ml)  
+    11. ,O.C(90ml)  
+    12., OM(90ml)  
+    13., 8PM(90ml)  
+    14., R.Rum(90ml),100  
+    15., Doctor(90ml)  ,80
+    16., B7(90ml)  ,130
+    17., GoaGin(90ml)  
+    18., RC(90ml)  
+    19., BlendersPride(90ml)  ,230
+    20., Signature(90ml)  
+    21., M.B.(90ml)  
+    22., GrandMasterF(90ml)  
+    23., RoyalStagBarrel(90ml)  
+    24., RoyalGreen(90ml) ,130 
+
+    
+    26,Carlsberg(650ml)  
+    27,Kingfisher(K.F.)(650ml),240  
+    28,Knockout(650ml)  
+    29,Tuborg(650ml)  ,240
+    30,TuborgClassic(650ml)  
+    31,Budweiser(650ml)  
+    32,L.P.(650ml)  
+    33,Haywards2000(650ml)      
+    34,RC(650ml)  
+    35,XX(650ml)  
+
+    37,Kingfisher(K.F.)(500ml)  
+    38,Tuborg(500ml)  
+    39,Budweiser(500ml)  
+    40,RC(500ml)  
+    41,L.P.(500ml)  
+    42,Haywards2000(500ml)  
+    43,XX(500ml)  
+
+    44,330mlStrongBeer  
+    45,Kingfisher(K.F.)(330ml)  
+    46,Tuborg(330ml)  ,150
+
+    47,650mlMildBeer  
+    48,Kingfisher(K.F.)(650ml)  
+    49,Tuborg(650ml)  
+    50,Carlsberg(650ml)  
+    51,Budweiser(650ml)  
+    52,L.P.(650ml)  
+
+    53,500mlMildBeer  
+    54,Kingfisher(K.F.)(500ml)  
+    55,Budweiser(500ml)  
+    56,Carlsberg(500ml)  
+    57,Tuborg(500ml)  
+    58,L.P.(500ml)  

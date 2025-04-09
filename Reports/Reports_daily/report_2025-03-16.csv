@@ -1,0 +1,7 @@
+Date,Product ID,Category,Brand Name,Opening Balance,Quantity Added,Total,Sale,Closing Balance,Price,Total Amount
+2025-03-16,MP180,Liquor,MagicP (180ml),20.0,0.0,20.0,5.0,10.0,0.0,0.0
+2025-03-16,NO180,Liquor,No.1 (180ml),80.0,0.0,80.0,160.0,-140.0,210.0,33600.0
+2025-03-16,IB180,Liquor,IB (180ml),0.0,30.0,30.0,15.0,15.0,210.0,3150.0
+2025-03-16,RS180,Liquor,R.Stag (180ml),22.0,0.0,22.0,12.0,8.0,240.0,2880.0
+2025-03-16,T50,ColdDrinks,Thums up (750ml),10.0,5.0,15.0,0.0,15.0,50.0,0.0
+,Total Sales,,,,,,,,,39630.0

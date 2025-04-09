@@ -1,0 +1,97 @@
+2025-03-29 21:04:01,292 - INFO - Database Connection Successfully!
+2025-03-29 21:04:01,304 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-29 21:06:06,713 - INFO - Database Connection Successfully!
+2025-03-29 21:06:06,715 - INFO - OB already initialized for today.
+2025-03-29 21:06:24,829 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-29.csv'
+2025-03-29 21:09:51,788 - INFO - Database Connection Successfully!
+2025-03-29 21:09:51,789 - INFO - OB already initialized for today.
+2025-03-29 21:10:09,674 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-29.csv'
+2025-03-29 21:19:16,114 - INFO - Database Connection Successfully!
+2025-03-29 21:19:16,115 - INFO - OB already initialized for today.
+2025-03-29 21:19:37,094 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-29.csv'
+2025-03-29 21:20:51,727 - INFO - Database Connection Successfully!
+2025-03-29 21:20:51,728 - INFO - OB already initialized for today.
+2025-03-29 21:22:55,726 - INFO - Database Connection Successfully!
+2025-03-29 21:22:55,726 - INFO - OB already initialized for today.
+2025-03-29 21:24:23,987 - INFO - Database Connection Successfully!
+2025-03-29 21:24:23,988 - INFO - OB already initialized for today.
+2025-03-29 21:26:24,434 - INFO - Database Connection Successfully!
+2025-03-29 21:26:24,435 - INFO - OB already initialized for today.
+2025-03-29 21:30:26,084 - INFO - Database Connection Successfully!
+2025-03-29 21:30:26,086 - INFO - OB already initialized for today.
+2025-03-29 21:32:19,689 - INFO - Database Connection Successfully!
+2025-03-29 21:32:19,690 - INFO - OB already initialized for today.
+2025-03-29 21:32:37,546 - ERROR - Error fetching today's sales: [Errno 2] No such file or directory: 'Reports/Reports_daily/report_2025-03-29.csv'
+2025-03-29 21:34:02,272 - INFO - Database Connection Successfully!
+2025-03-29 21:34:02,273 - INFO - OB already initialized for today.
+2025-03-29 21:34:25,471 - INFO - Database Connection Successfully!
+2025-03-29 21:34:25,472 - INFO - OB already initialized for today.
+2025-03-29 21:34:44,902 - INFO - Database Connection Successfully!
+2025-03-29 21:34:44,904 - INFO - OB already initialized for today.
+2025-03-29 21:34:54,261 - INFO - Database Connection Successfully!
+2025-03-29 21:34:54,262 - INFO - OB already initialized for today.
+2025-03-29 21:35:10,240 - INFO - Database Connection Successfully!
+2025-03-29 21:35:10,242 - INFO - OB already initialized for today.
+2025-03-29 21:36:08,523 - INFO - Database Connection Successfully!
+2025-03-29 21:36:08,524 - INFO - OB already initialized for today.
+2025-03-29 21:36:24,585 - INFO - Database Connection Successfully!
+2025-03-29 21:36:24,586 - INFO - OB already initialized for today.
+2025-03-29 21:36:35,365 - INFO - Database Connection Successfully!
+2025-03-29 21:36:35,366 - INFO - OB already initialized for today.
+2025-03-29 21:37:06,093 - INFO - Database Connection Successfully!
+2025-03-29 21:37:06,094 - INFO - OB already initialized for today.
+2025-03-29 21:37:30,146 - INFO - Database Connection Successfully!
+2025-03-29 21:37:30,147 - INFO - OB already initialized for today.
+2025-03-29 21:41:51,083 - INFO - Database Connection Successfully!
+2025-03-29 21:41:51,084 - INFO - OB already initialized for today.
+2025-03-29 21:46:22,169 - INFO - Database Connection Successfully!
+2025-03-29 21:46:22,170 - INFO - OB already initialized for today.
+2025-03-29 21:47:02,016 - INFO - Database Connection Successfully!
+2025-03-29 21:47:02,020 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:47:08,344 - INFO - Database Connection Successfully!
+2025-03-29 21:47:08,345 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:47:45,848 - INFO - Database Connection Successfully!
+2025-03-29 21:47:45,849 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:48:58,317 - INFO - Database Connection Successfully!
+2025-03-29 21:48:58,319 - INFO - OB already initialized for today.
+2025-03-29 21:49:15,454 - INFO - Database Connection Successfully!
+2025-03-29 21:49:15,455 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:49:37,878 - INFO - Database Connection Successfully!
+2025-03-29 21:49:37,878 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:49:37,886 - INFO - Database Connection Successfully!
+2025-03-29 21:49:37,921 - INFO - Product Mirinda Successfully Added
+2025-03-29 21:49:48,452 - INFO - Database Connection Successfully!
+2025-03-29 21:49:48,452 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:50:24,900 - INFO - Database Connection Successfully!
+2025-03-29 21:50:24,903 - INFO - OB already initialized for today.
+2025-03-29 21:50:50,561 - INFO - Database Connection Successfully!
+2025-03-29 21:50:50,562 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:50:56,167 - INFO - Database Connection Successfully!
+2025-03-29 21:50:56,168 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:24,837 - INFO - Database Connection Successfully!
+2025-03-29 21:51:24,838 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:24,845 - INFO - Database Connection Successfully!
+2025-03-29 21:51:24,853 - INFO - Product Snacks Successfully Added
+2025-03-29 21:51:24,877 - INFO - Database Connection Successfully!
+2025-03-29 21:51:24,878 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:33,773 - INFO - Database Connection Successfully!
+2025-03-29 21:51:33,774 - INFO - Fetched all items from Liquor successfully.
+2025-03-29 21:51:36,433 - INFO - Database Connection Successfully!
+2025-03-29 21:51:36,434 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-29 21:51:38,777 - INFO - Database Connection Successfully!
+2025-03-29 21:51:38,778 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:40,840 - INFO - Database Connection Successfully!
+2025-03-29 21:51:40,848 - INFO - Sales Updated Successfully for product: S50
+2025-03-29 21:51:40,854 - INFO - Database Connection Successfully!
+2025-03-29 21:51:40,864 - INFO - Sales report updated for S50 on 2025-03-29
+2025-03-29 21:51:40,894 - INFO - Database Connection Successfully!
+2025-03-29 21:51:40,894 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:48,169 - INFO - Database Connection Successfully!
+2025-03-29 21:51:48,170 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:51:49,550 - INFO - Database Connection Successfully!
+2025-03-29 21:51:49,558 - INFO - Stock Added Successfully for S50
+2025-03-29 21:51:49,572 - INFO - Database Connection Successfully!
+2025-03-29 21:51:49,580 - INFO - Stock report updated for S50 on 2025-03-29
+2025-03-29 21:51:49,612 - INFO - Database Connection Successfully!
+2025-03-29 21:51:49,612 - INFO - Fetched all items from Snacks successfully.
+2025-03-29 21:52:04,701 - INFO - Fetched today's sales

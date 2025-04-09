@@ -1,0 +1,5 @@
+Date,Product ID,Category,Brand Name,Opening Balance,Quantity Added,Total,Sale,Closing Balance,Price,Total Amount
+2025-03-05,T50,ColdDrinks,Thums up (750ml),0.0,10.0,10.0,0.0,10.0,50.0,0.0
+2025-03-05,S5,Snacks,Snacks,10.0,10.0,20.0,3.0,14.0,5.0,15.0
+2025-03-05,RS180,Liquor,R.Stag (180ml),0.0,20.0,20.0,2405.0,-2385.0,240.0,577200.0
+,Total Sales,,,,,,,,,577215.0

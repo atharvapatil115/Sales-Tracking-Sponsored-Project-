@@ -1,0 +1,555 @@
+2025-03-04 12:04:15,894 - INFO - Database Connection Successfully!
+2025-03-04 12:04:15,904 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:04:30,503 - INFO - Database Connection Successfully!
+2025-03-04 12:04:30,504 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:04:48,700 - INFO - Database Connection Successfully!
+2025-03-04 12:04:48,738 - INFO - Stock Added Successfully for S20
+2025-03-04 12:04:48,743 - INFO - Database Connection Successfully!
+2025-03-04 12:04:48,760 - INFO - Stock report updated for S20 on 2025-03-04
+2025-03-04 12:04:48,760 - ERROR - Exception for OB:<class 'Exception'>
+2025-03-04 12:04:53,252 - INFO - Database Connection Successfully!
+2025-03-04 12:04:53,253 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:05:14,748 - INFO - Database Connection Successfully!
+2025-03-04 12:05:14,758 - INFO - Sales Updated Successfully for product: S20
+2025-03-04 12:05:14,778 - INFO - Database Connection Successfully!
+2025-03-04 12:05:14,791 - INFO - Sales report updated for S20 on 2025-03-04
+2025-03-04 12:05:18,161 - INFO - Database Connection Successfully!
+2025-03-04 12:05:18,161 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:18:06,277 - INFO - Database Connection Successfully!
+2025-03-04 12:18:06,285 - ERROR - Error occured in fetching:  no such table: Liquor
+2025-03-04 12:21:14,510 - INFO - Database Connection Successfully!
+2025-03-04 12:21:14,549 - INFO - Database Initlized Successfully
+2025-03-04 12:21:14,551 - INFO - Database Connection Successfully!
+2025-03-04 12:21:14,558 - INFO - Items addedd successfully into the database
+2025-03-04 12:21:14,564 - INFO - Items addedd successfully into the database
+2025-03-04 12:21:14,564 - ERROR - Error occured while intserting the items into the databases Cannot operate on a closed database.
+2025-03-04 12:22:22,726 - INFO - Database Connection Successfully!
+2025-03-04 12:22:22,728 - INFO - Database Initlized Successfully
+2025-03-04 12:22:22,729 - INFO - Database Connection Successfully!
+2025-03-04 12:22:22,730 - ERROR - Error occured while intserting the items into the databases UNIQUE constraint failed: ColdDrinks.ID
+2025-03-04 12:22:22,730 - ERROR - Error occured while intserting the items into the databases UNIQUE constraint failed: Snacks.ID
+2025-03-04 12:22:22,730 - ERROR - Error occured while intserting the items into the databases Cannot operate on a closed database.
+2025-03-04 12:24:54,539 - INFO - Database Connection Successfully!
+2025-03-04 12:24:54,568 - INFO - Database Initlized Successfully
+2025-03-04 12:24:54,571 - INFO - Database Connection Successfully!
+2025-03-04 12:24:54,578 - INFO - Items addedd successfully into the database
+2025-03-04 12:24:54,584 - INFO - Items addedd successfully into the database
+2025-03-04 12:24:54,592 - INFO - Items addedd successfully into the database
+2025-03-04 12:24:54,595 - INFO - Database Connection Successfully!
+2025-03-04 12:24:54,596 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:24:54,603 - INFO - Database Connection Successfully!
+2025-03-04 12:24:54,603 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:24:54,606 - INFO - Database Connection Successfully!
+2025-03-04 12:24:54,606 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:25:33,657 - INFO - Database Connection Successfully!
+2025-03-04 12:25:33,658 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:39:51,563 - INFO - Database Connection Successfully!
+2025-03-04 12:39:51,567 - ERROR - Error updating Opening Balance: 'NoneType' object is not subscriptable
+2025-03-04 12:39:59,837 - INFO - Database Connection Successfully!
+2025-03-04 12:39:59,837 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:40:03,324 - INFO - Database Connection Successfully!
+2025-03-04 12:40:03,325 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:40:12,712 - INFO - Database Connection Successfully!
+2025-03-04 12:40:12,722 - INFO - Stock Added Successfully for S5
+2025-03-04 12:40:12,742 - INFO - Database Connection Successfully!
+2025-03-04 12:40:12,756 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 12:40:12,756 - ERROR - Exception for OB:<class 'Exception'>
+2025-03-04 12:40:25,208 - INFO - Database Connection Successfully!
+2025-03-04 12:40:25,209 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:40:31,004 - INFO - Database Connection Successfully!
+2025-03-04 12:40:31,004 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:40:41,616 - INFO - Database Connection Successfully!
+2025-03-04 12:40:41,627 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 12:40:41,650 - INFO - Database Connection Successfully!
+2025-03-04 12:40:41,668 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 12:44:53,003 - INFO - Database Connection Successfully!
+2025-03-04 12:45:33,171 - INFO - Database Connection Successfully!
+2025-03-04 12:46:06,101 - INFO - Database Connection Successfully!
+2025-03-04 12:46:42,775 - INFO - Database Connection Successfully!
+2025-03-04 12:46:59,821 - INFO - Database Connection Successfully!
+2025-03-04 12:46:59,822 - ERROR - Error updating Opening Balance: 'NoneType' object is not subscriptable
+2025-03-04 12:47:06,572 - INFO - Database Connection Successfully!
+2025-03-04 12:48:23,721 - INFO - Database Connection Successfully!
+2025-03-04 12:48:23,735 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-04 12:48:31,638 - INFO - Database Connection Successfully!
+2025-03-04 12:51:58,446 - INFO - Database Connection Successfully!
+2025-03-04 12:51:58,505 - INFO - Database Initlized Successfully
+2025-03-04 12:51:58,507 - INFO - Database Connection Successfully!
+2025-03-04 12:51:58,514 - INFO - Items addedd successfully into the database
+2025-03-04 12:51:58,520 - INFO - Items addedd successfully into the database
+2025-03-04 12:51:58,527 - INFO - Items addedd successfully into the database
+2025-03-04 12:51:58,530 - INFO - Database Connection Successfully!
+2025-03-04 12:51:58,531 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:51:58,532 - ERROR - Error occured in fetching:  7 columns passed, passed data had 8 columns
+2025-03-04 12:54:17,758 - INFO - Database Connection Successfully!
+2025-03-04 12:54:17,759 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:54:17,761 - INFO - Database Connection Successfully!
+2025-03-04 12:54:17,762 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:54:17,763 - INFO - Database Connection Successfully!
+2025-03-04 12:54:17,763 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:54:43,409 - INFO - Database Connection Successfully!
+2025-03-04 12:54:43,423 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-04 12:54:44,881 - INFO - Database Connection Successfully!
+2025-03-04 12:54:44,881 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:55:17,421 - INFO - Database Connection Successfully!
+2025-03-04 12:55:17,422 - INFO - OB already initialized for today.
+2025-03-04 12:55:18,539 - INFO - Database Connection Successfully!
+2025-03-04 12:55:18,540 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:55:24,159 - INFO - Database Connection Successfully!
+2025-03-04 12:55:24,160 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:55:27,086 - INFO - Database Connection Successfully!
+2025-03-04 12:55:27,086 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:59:12,100 - INFO - Database Connection Successfully!
+2025-03-04 12:59:12,101 - INFO - OB already initialized for today.
+2025-03-04 12:59:16,964 - INFO - Database Connection Successfully!
+2025-03-04 12:59:16,965 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:59:19,148 - INFO - Database Connection Successfully!
+2025-03-04 12:59:19,148 - INFO - Fetched all the information from the database about the items!
+2025-03-04 12:59:24,396 - INFO - Database Connection Successfully!
+2025-03-04 12:59:24,397 - ERROR - Unable to add Stock: Error binding parameter 3: type 'tuple' is not supported
+2025-03-04 12:59:24,415 - INFO - Database Connection Successfully!
+2025-03-04 12:59:24,453 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 12:59:37,769 - INFO - Database Connection Successfully!
+2025-03-04 12:59:37,769 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:02:43,170 - INFO - Database Connection Successfully!
+2025-03-04 13:02:43,171 - INFO - OB already initialized for today.
+2025-03-04 13:02:47,785 - INFO - Database Connection Successfully!
+2025-03-04 13:02:47,786 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:02:50,980 - INFO - Database Connection Successfully!
+2025-03-04 13:02:50,980 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:02:55,371 - INFO - Database Connection Successfully!
+2025-03-04 13:02:55,372 - ERROR - Insufficient Stock
+2025-03-04 13:02:55,372 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :50
+Available Stock : -50
+2025-03-04 13:02:55,423 - INFO - Database Connection Successfully!
+2025-03-04 13:02:55,434 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 13:03:12,068 - INFO - Database Connection Successfully!
+2025-03-04 13:03:12,068 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:03:16,917 - INFO - Database Connection Successfully!
+2025-03-04 13:03:16,954 - INFO - Stock Added Successfully for S5
+2025-03-04 13:03:16,968 - INFO - Database Connection Successfully!
+2025-03-04 13:03:16,976 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 13:03:22,454 - INFO - Database Connection Successfully!
+2025-03-04 13:03:22,455 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:03:57,833 - INFO - Database Connection Successfully!
+2025-03-04 13:03:57,833 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:04:00,165 - INFO - Database Connection Successfully!
+2025-03-04 13:04:00,202 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 13:04:00,217 - INFO - Database Connection Successfully!
+2025-03-04 13:04:00,224 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 13:04:03,946 - INFO - Database Connection Successfully!
+2025-03-04 13:04:03,946 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:06:12,497 - INFO - Database Connection Successfully!
+2025-03-04 13:06:12,498 - INFO - OB already initialized for today.
+2025-03-04 13:06:14,584 - INFO - Database Connection Successfully!
+2025-03-04 13:06:14,585 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:06:18,791 - INFO - Database Connection Successfully!
+2025-03-04 13:06:18,791 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:06:21,847 - INFO - Database Connection Successfully!
+2025-03-04 13:06:21,855 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 13:06:21,877 - INFO - Database Connection Successfully!
+2025-03-04 13:06:21,886 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 13:07:21,971 - INFO - Database Connection Successfully!
+2025-03-04 13:07:21,972 - INFO - OB already initialized for today.
+2025-03-04 13:07:23,306 - INFO - Database Connection Successfully!
+2025-03-04 13:07:23,307 - INFO - Fetched all the information from the database about the items!
+2025-03-04 13:07:27,778 - INFO - Database Connection Successfully!
+2025-03-04 13:07:27,815 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 13:07:27,833 - INFO - Database Connection Successfully!
+2025-03-04 13:07:27,842 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 13:09:05,861 - INFO - Database Connection Successfully!
+2025-03-04 13:09:05,866 - INFO - OB already initialized for today.
+2025-03-04 13:09:29,538 - INFO - Database Connection Successfully!
+2025-03-04 13:09:29,539 - INFO - OB already initialized for today.
+2025-03-04 14:46:37,354 - INFO - Database Connection Successfully!
+2025-03-04 14:46:37,355 - INFO - OB already initialized for today.
+2025-03-04 14:46:39,101 - INFO - Database Connection Successfully!
+2025-03-04 14:46:39,303 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:46:41,659 - INFO - Database Connection Successfully!
+2025-03-04 14:46:41,660 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:46:57,030 - INFO - Database Connection Successfully!
+2025-03-04 14:46:57,031 - INFO - OB already initialized for today.
+2025-03-04 14:47:00,930 - INFO - Database Connection Successfully!
+2025-03-04 14:47:00,930 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:47:08,229 - INFO - Database Connection Successfully!
+2025-03-04 14:47:08,268 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 14:47:08,294 - INFO - Database Connection Successfully!
+2025-03-04 14:47:08,320 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 14:47:10,948 - INFO - Database Connection Successfully!
+2025-03-04 14:47:10,948 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:48:22,886 - INFO - Database Connection Successfully!
+2025-03-04 14:48:22,887 - INFO - OB already initialized for today.
+2025-03-04 14:48:24,221 - INFO - Database Connection Successfully!
+2025-03-04 14:48:24,222 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:48:28,324 - INFO - Database Connection Successfully!
+2025-03-04 14:48:28,325 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:48:34,723 - INFO - Database Connection Successfully!
+2025-03-04 14:48:34,759 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 14:48:34,778 - INFO - Database Connection Successfully!
+2025-03-04 14:48:34,789 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 14:48:34,836 - INFO - Database Connection Successfully!
+2025-03-04 14:48:34,836 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:04,636 - INFO - Database Connection Successfully!
+2025-03-04 14:49:04,673 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 14:49:04,693 - INFO - Database Connection Successfully!
+2025-03-04 14:49:04,704 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 14:49:04,758 - INFO - Database Connection Successfully!
+2025-03-04 14:49:04,759 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:14,326 - INFO - Database Connection Successfully!
+2025-03-04 14:49:14,327 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:20,356 - INFO - Database Connection Successfully!
+2025-03-04 14:49:20,393 - INFO - Stock Added Successfully for S10
+2025-03-04 14:49:20,412 - INFO - Database Connection Successfully!
+2025-03-04 14:49:20,417 - INFO - Stock report updated for S10 on 2025-03-04
+2025-03-04 14:49:20,460 - INFO - Database Connection Successfully!
+2025-03-04 14:49:20,460 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:25,898 - INFO - Database Connection Successfully!
+2025-03-04 14:49:25,899 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:31,219 - INFO - Database Connection Successfully!
+2025-03-04 14:49:31,256 - INFO - Sales Updated Successfully for product: S10
+2025-03-04 14:49:31,272 - INFO - Database Connection Successfully!
+2025-03-04 14:49:31,279 - INFO - Sales report updated for S10 on 2025-03-04
+2025-03-04 14:49:31,321 - INFO - Database Connection Successfully!
+2025-03-04 14:49:31,322 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:46,105 - INFO - Database Connection Successfully!
+2025-03-04 14:49:46,114 - INFO - Sales Updated Successfully for product: S5
+2025-03-04 14:49:46,131 - INFO - Database Connection Successfully!
+2025-03-04 14:49:46,138 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 14:49:46,178 - INFO - Database Connection Successfully!
+2025-03-04 14:49:46,179 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:49:53,871 - INFO - Database Connection Successfully!
+2025-03-04 14:49:53,912 - INFO - Sales Updated Successfully for product: S10
+2025-03-04 14:49:53,926 - INFO - Database Connection Successfully!
+2025-03-04 14:49:53,933 - INFO - Sales report updated for S10 on 2025-03-04
+2025-03-04 14:49:53,983 - INFO - Database Connection Successfully!
+2025-03-04 14:49:53,984 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:51:39,036 - INFO - Database Connection Successfully!
+2025-03-04 14:51:39,037 - INFO - OB already initialized for today.
+2025-03-04 14:51:40,186 - INFO - Database Connection Successfully!
+2025-03-04 14:51:40,187 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:51:46,168 - INFO - Database Connection Successfully!
+2025-03-04 14:51:46,168 - ERROR - Insufficient Stock
+2025-03-04 14:51:46,168 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :10
+Available Stock : -10
+2025-03-04 14:51:46,175 - INFO - Database Connection Successfully!
+2025-03-04 14:51:46,183 - INFO - Sales report updated for S25 on 2025-03-04
+2025-03-04 14:51:46,231 - INFO - Database Connection Successfully!
+2025-03-04 14:51:46,232 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:51:56,388 - INFO - Database Connection Successfully!
+2025-03-04 14:51:56,388 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:51:58,942 - INFO - Database Connection Successfully!
+2025-03-04 14:51:58,979 - INFO - Stock Added Successfully for S25
+2025-03-04 14:51:58,984 - INFO - Database Connection Successfully!
+2025-03-04 14:51:58,992 - INFO - Stock report updated for S25 on 2025-03-04
+2025-03-04 14:51:59,039 - INFO - Database Connection Successfully!
+2025-03-04 14:51:59,039 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:52:02,550 - INFO - Database Connection Successfully!
+2025-03-04 14:52:02,588 - INFO - Stock Added Successfully for S25
+2025-03-04 14:52:02,596 - INFO - Database Connection Successfully!
+2025-03-04 14:52:02,610 - INFO - Stock report updated for S25 on 2025-03-04
+2025-03-04 14:52:02,656 - INFO - Database Connection Successfully!
+2025-03-04 14:52:02,656 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:52:06,727 - INFO - Database Connection Successfully!
+2025-03-04 14:52:06,728 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:52:08,877 - INFO - Database Connection Successfully!
+2025-03-04 14:52:08,915 - INFO - Sales Updated Successfully for product: S25
+2025-03-04 14:52:08,920 - INFO - Database Connection Successfully!
+2025-03-04 14:52:08,927 - INFO - Sales report updated for S25 on 2025-03-04
+2025-03-04 14:52:08,977 - INFO - Database Connection Successfully!
+2025-03-04 14:52:08,977 - INFO - Fetched all the information from the database about the items!
+2025-03-04 14:52:26,257 - INFO - Database Connection Successfully!
+2025-03-04 14:52:26,294 - INFO - Sales Updated Successfully for product: S25
+2025-03-04 14:52:26,299 - INFO - Database Connection Successfully!
+2025-03-04 14:52:26,305 - INFO - Sales report updated for S25 on 2025-03-04
+2025-03-04 14:52:26,350 - INFO - Database Connection Successfully!
+2025-03-04 14:52:26,350 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:23:25,254 - INFO - Database Connection Successfully!
+2025-03-04 15:23:25,255 - INFO - OB already initialized for today.
+2025-03-04 15:23:31,294 - INFO - Database Connection Successfully!
+2025-03-04 15:23:31,295 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:23:36,852 - INFO - Database Connection Successfully!
+2025-03-04 15:23:36,853 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:23:43,769 - INFO - Database Connection Successfully!
+2025-03-04 15:23:43,770 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:23:48,840 - INFO - Database Connection Successfully!
+2025-03-04 15:23:48,840 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:23:52,440 - INFO - Database Connection Successfully!
+2025-03-04 15:23:52,448 - INFO - Stock Added Successfully for T20
+2025-03-04 15:23:52,458 - INFO - Database Connection Successfully!
+2025-03-04 15:23:52,468 - INFO - Stock report updated for T20 on 2025-03-04
+2025-03-04 15:23:52,506 - INFO - Database Connection Successfully!
+2025-03-04 15:23:52,506 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:27:27,739 - INFO - Database Connection Successfully!
+2025-03-04 15:27:27,740 - INFO - OB already initialized for today.
+2025-03-04 15:27:29,169 - INFO - Database Connection Successfully!
+2025-03-04 15:27:29,169 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:27:36,797 - INFO - Database Connection Successfully!
+2025-03-04 15:27:36,797 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:27:39,474 - INFO - Database Connection Successfully!
+2025-03-04 15:27:39,483 - INFO - Stock Added Successfully for RS180
+2025-03-04 15:27:39,489 - INFO - Database Connection Successfully!
+2025-03-04 15:27:39,495 - INFO - Stock report updated for RS180 on 2025-03-04
+2025-03-04 15:27:39,803 - INFO - Database Connection Successfully!
+2025-03-04 15:27:39,804 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:27:48,474 - INFO - Database Connection Successfully!
+2025-03-04 15:27:48,474 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:27:52,211 - INFO - Database Connection Successfully!
+2025-03-04 15:27:52,220 - INFO - Sales Updated Successfully for product: RS180
+2025-03-04 15:27:52,231 - INFO - Database Connection Successfully!
+2025-03-04 15:27:52,238 - INFO - Sales report updated for RS180 on 2025-03-04
+2025-03-04 15:27:52,544 - INFO - Database Connection Successfully!
+2025-03-04 15:27:52,544 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:30:34,651 - INFO - Database Connection Successfully!
+2025-03-04 15:30:34,676 - INFO - Database Initlized Successfully
+2025-03-04 15:30:34,678 - INFO - Database Connection Successfully!
+2025-03-04 15:30:34,684 - INFO - Items addedd successfully into the database
+2025-03-04 15:30:34,690 - INFO - Items addedd successfully into the database
+2025-03-04 15:30:34,695 - INFO - Items addedd successfully into the database
+2025-03-04 15:30:34,696 - INFO - Database Connection Successfully!
+2025-03-04 15:30:34,697 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:30:34,699 - INFO - Database Connection Successfully!
+2025-03-04 15:30:34,699 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:30:34,702 - INFO - Database Connection Successfully!
+2025-03-04 15:30:34,703 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:30:46,985 - INFO - Database Connection Successfully!
+2025-03-04 15:30:46,997 - INFO - Opening Balance updated for all categories with previous CB values
+2025-03-04 15:30:48,108 - INFO - Database Connection Successfully!
+2025-03-04 15:30:48,109 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:33:29,943 - INFO - Database Connection Successfully!
+2025-03-04 15:33:29,943 - INFO - OB already initialized for today.
+2025-03-04 15:33:32,959 - INFO - Database Connection Successfully!
+2025-03-04 15:33:32,960 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:33:36,548 - INFO - Database Connection Successfully!
+2025-03-04 15:33:36,548 - ERROR - Insufficient Stock
+2025-03-04 15:33:36,549 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :10
+Available Stock : -10
+2025-03-04 15:33:36,562 - INFO - Database Connection Successfully!
+2025-03-04 15:33:36,574 - INFO - Sales report updated for RS180 on 2025-03-04
+2025-03-04 15:33:36,908 - INFO - Database Connection Successfully!
+2025-03-04 15:33:36,909 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:33:51,743 - INFO - Database Connection Successfully!
+2025-03-04 15:33:51,743 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:33:56,428 - INFO - Database Connection Successfully!
+2025-03-04 15:33:56,429 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:33:58,754 - INFO - Database Connection Successfully!
+2025-03-04 15:33:58,755 - ERROR - Unable to add Stock: Incorrect number of bindings supplied. The current statement uses 4, and there are 3 supplied.
+2025-03-04 15:33:58,766 - INFO - Database Connection Successfully!
+2025-03-04 15:33:58,771 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 15:34:02,197 - INFO - Database Connection Successfully!
+2025-03-04 15:34:02,198 - ERROR - Unable to add Stock: Incorrect number of bindings supplied. The current statement uses 4, and there are 3 supplied.
+2025-03-04 15:34:02,210 - INFO - Database Connection Successfully!
+2025-03-04 15:34:02,216 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 15:36:19,064 - INFO - Database Connection Successfully!
+2025-03-04 15:36:19,065 - INFO - OB already initialized for today.
+2025-03-04 15:36:22,072 - INFO - Database Connection Successfully!
+2025-03-04 15:36:22,072 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:36:28,403 - INFO - Database Connection Successfully!
+2025-03-04 15:36:28,404 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:36:31,451 - INFO - Database Connection Successfully!
+2025-03-04 15:36:31,454 - ERROR - Unable to add Stock: no such column: OB
+2025-03-04 15:36:31,467 - INFO - Database Connection Successfully!
+2025-03-04 15:36:31,474 - INFO - Stock report updated for RS180 on 2025-03-04
+2025-03-04 15:37:32,365 - INFO - Database Connection Successfully!
+2025-03-04 15:37:32,366 - INFO - OB already initialized for today.
+2025-03-04 15:37:36,079 - INFO - Database Connection Successfully!
+2025-03-04 15:37:36,079 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:37:38,391 - INFO - Database Connection Successfully!
+2025-03-04 15:37:38,400 - INFO - Stock Added Successfully for RS180
+2025-03-04 15:37:38,416 - INFO - Database Connection Successfully!
+2025-03-04 15:37:38,424 - INFO - Stock report updated for RS180 on 2025-03-04
+2025-03-04 15:37:38,723 - INFO - Database Connection Successfully!
+2025-03-04 15:37:38,724 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:41:22,093 - INFO - Database Connection Successfully!
+2025-03-04 15:41:22,094 - INFO - OB already initialized for today.
+2025-03-04 15:41:23,955 - INFO - Database Connection Successfully!
+2025-03-04 15:41:23,955 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:41:26,624 - INFO - Database Connection Successfully!
+2025-03-04 15:41:26,634 - INFO - Sales Updated Successfully for product: RS180
+2025-03-04 15:41:26,639 - INFO - Database Connection Successfully!
+2025-03-04 15:41:26,647 - INFO - Sales report updated for RS180 on 2025-03-04
+2025-03-04 15:41:26,965 - INFO - Database Connection Successfully!
+2025-03-04 15:41:26,965 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:42:37,070 - INFO - Database Connection Successfully!
+2025-03-04 15:42:37,070 - INFO - OB already initialized for today.
+2025-03-04 15:42:38,490 - INFO - Database Connection Successfully!
+2025-03-04 15:42:38,491 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:42:40,288 - INFO - Database Connection Successfully!
+2025-03-04 15:42:40,289 - ERROR - Insufficient Stock
+2025-03-04 15:42:40,289 - ERROR - Error updating sales: Insufficient Stock available for product id: Insufficient stock error
+Requested Stock :10
+Available Stock : -10
+2025-03-04 15:42:40,294 - INFO - Database Connection Successfully!
+2025-03-04 15:42:40,303 - INFO - Sales report updated for S5 on 2025-03-04
+2025-03-04 15:42:40,330 - INFO - Database Connection Successfully!
+2025-03-04 15:42:40,330 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:42:43,744 - INFO - Database Connection Successfully!
+2025-03-04 15:42:43,745 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:42:48,999 - INFO - Database Connection Successfully!
+2025-03-04 15:42:48,999 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:42:52,131 - INFO - Database Connection Successfully!
+2025-03-04 15:42:52,138 - INFO - Stock Added Successfully for S10
+2025-03-04 15:42:52,141 - INFO - Database Connection Successfully!
+2025-03-04 15:42:52,146 - INFO - Stock report updated for S10 on 2025-03-04
+2025-03-04 15:42:52,175 - INFO - Database Connection Successfully!
+2025-03-04 15:42:52,176 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:44:21,260 - INFO - Database Connection Successfully!
+2025-03-04 15:44:21,261 - INFO - OB already initialized for today.
+2025-03-04 15:44:24,123 - INFO - Database Connection Successfully!
+2025-03-04 15:44:24,124 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:44:26,321 - INFO - Database Connection Successfully!
+2025-03-04 15:44:26,329 - INFO - Stock Added Successfully for S5
+2025-03-04 15:44:26,334 - INFO - Database Connection Successfully!
+2025-03-04 15:44:26,343 - INFO - Stock report updated for S5 on 2025-03-04
+2025-03-04 15:44:26,344 - INFO - Database Connection Successfully!
+2025-03-04 15:44:26,344 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:44:26,371 - INFO - Database Connection Successfully!
+2025-03-04 15:44:26,372 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:47:14,694 - INFO - Database Connection Successfully!
+2025-03-04 15:47:14,694 - INFO - OB already initialized for today.
+2025-03-04 15:47:16,134 - INFO - Database Connection Successfully!
+2025-03-04 15:47:16,135 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:47:21,702 - INFO - Database Connection Successfully!
+2025-03-04 15:47:21,702 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:47:28,388 - INFO - Database Connection Successfully!
+2025-03-04 15:47:28,396 - INFO - Stock Added Successfully for S20
+2025-03-04 15:47:28,401 - INFO - Database Connection Successfully!
+2025-03-04 15:47:28,409 - INFO - Stock report updated for S20 on 2025-03-04
+2025-03-04 15:47:28,409 - INFO - Database Connection Successfully!
+2025-03-04 15:47:28,410 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:47:28,443 - INFO - Database Connection Successfully!
+2025-03-04 15:47:28,443 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:47:55,342 - INFO - Database Connection Successfully!
+2025-03-04 15:47:55,343 - INFO - OB already initialized for today.
+2025-03-04 15:48:00,483 - INFO - Database Connection Successfully!
+2025-03-04 15:48:00,484 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:48:20,462 - INFO - Database Connection Successfully!
+2025-03-04 15:48:20,463 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:48:20,772 - INFO - Database Connection Successfully!
+2025-03-04 15:48:20,772 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:48:57,196 - INFO - Database Connection Successfully!
+2025-03-04 15:48:57,197 - INFO - OB already initialized for today.
+2025-03-04 15:48:59,734 - INFO - Database Connection Successfully!
+2025-03-04 15:48:59,735 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:01,800 - INFO - Database Connection Successfully!
+2025-03-04 15:53:01,800 - INFO - OB already initialized for today.
+2025-03-04 15:53:02,789 - INFO - Database Connection Successfully!
+2025-03-04 15:53:02,790 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:09,150 - INFO - Database Connection Successfully!
+2025-03-04 15:53:09,153 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:12,393 - INFO - Database Connection Successfully!
+2025-03-04 15:53:12,394 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:15,301 - INFO - Database Connection Successfully!
+2025-03-04 15:53:15,306 - INFO - Stock Added Successfully for S25
+2025-03-04 15:53:15,311 - INFO - Database Connection Successfully!
+2025-03-04 15:53:15,319 - INFO - Stock report updated for S25 on 2025-03-04
+2025-03-04 15:53:15,320 - INFO - Database Connection Successfully!
+2025-03-04 15:53:15,320 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:15,361 - INFO - Database Connection Successfully!
+2025-03-04 15:53:15,361 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:49,922 - INFO - Database Connection Successfully!
+2025-03-04 15:53:49,923 - INFO - OB already initialized for today.
+2025-03-04 15:53:51,464 - INFO - Database Connection Successfully!
+2025-03-04 15:53:51,464 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:57,025 - INFO - Database Connection Successfully!
+2025-03-04 15:53:57,033 - INFO - Sales Updated Successfully for product: S25
+2025-03-04 15:53:57,038 - INFO - Database Connection Successfully!
+2025-03-04 15:53:57,045 - INFO - Sales report updated for S25 on 2025-03-04
+2025-03-04 15:53:57,045 - INFO - Database Connection Successfully!
+2025-03-04 15:53:57,045 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:53:57,071 - INFO - Database Connection Successfully!
+2025-03-04 15:53:57,071 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:14,922 - INFO - Database Connection Successfully!
+2025-03-04 15:54:14,923 - INFO - OB already initialized for today.
+2025-03-04 15:54:16,828 - INFO - Database Connection Successfully!
+2025-03-04 15:54:16,829 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:19,036 - INFO - Database Connection Successfully!
+2025-03-04 15:54:19,036 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:21,549 - INFO - Database Connection Successfully!
+2025-03-04 15:54:21,555 - INFO - Stock Added Successfully for M20
+2025-03-04 15:54:21,569 - INFO - Database Connection Successfully!
+2025-03-04 15:54:21,575 - INFO - Stock report updated for M20 on 2025-03-04
+2025-03-04 15:54:21,576 - INFO - Database Connection Successfully!
+2025-03-04 15:54:21,576 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:21,620 - INFO - Database Connection Successfully!
+2025-03-04 15:54:21,620 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:30,423 - INFO - Database Connection Successfully!
+2025-03-04 15:54:30,423 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:32,230 - INFO - Database Connection Successfully!
+2025-03-04 15:54:32,230 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:34,383 - INFO - Database Connection Successfully!
+2025-03-04 15:54:34,392 - INFO - Sales Updated Successfully for product: M20
+2025-03-04 15:54:34,407 - INFO - Database Connection Successfully!
+2025-03-04 15:54:34,412 - INFO - Sales report updated for M20 on 2025-03-04
+2025-03-04 15:54:34,412 - INFO - Database Connection Successfully!
+2025-03-04 15:54:34,413 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:54:34,451 - INFO - Database Connection Successfully!
+2025-03-04 15:54:34,451 - INFO - Fetched all the information from the database about the items!
+2025-03-04 15:55:52,779 - INFO - Database Connection Successfully!
+2025-03-04 15:55:52,780 - INFO - OB already initialized for today.
+2025-03-04 15:55:55,597 - INFO - Database Connection Successfully!
+2025-03-04 15:55:55,598 - INFO - Fetched all items from the database
+2025-03-04 15:55:58,347 - INFO - Database Connection Successfully!
+2025-03-04 15:55:58,355 - INFO - Stock Added Successfully for M10
+2025-03-04 15:55:58,359 - INFO - Database Connection Successfully!
+2025-03-04 15:55:58,364 - INFO - Stock report updated for M10 on 2025-03-04
+2025-03-04 15:55:58,365 - INFO - Database Connection Successfully!
+2025-03-04 15:55:58,366 - INFO - Fetched all items from the database
+2025-03-04 15:55:58,412 - INFO - Database Connection Successfully!
+2025-03-04 15:55:58,413 - INFO - Fetched all items from the database
+2025-03-04 15:59:44,400 - INFO - Database Connection Successfully!
+2025-03-04 15:59:44,400 - INFO - OB already initialized for today.
+2025-03-04 15:59:54,527 - INFO - Database Connection Successfully!
+2025-03-04 15:59:54,528 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 15:59:58,183 - INFO - Database Connection Successfully!
+2025-03-04 15:59:58,193 - INFO - Stock Added Successfully for R125
+2025-03-04 15:59:58,199 - INFO - Database Connection Successfully!
+2025-03-04 15:59:58,204 - INFO - Stock report updated for R125 on 2025-03-04
+2025-03-04 15:59:58,205 - INFO - Database Connection Successfully!
+2025-03-04 15:59:58,206 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 15:59:58,248 - INFO - Database Connection Successfully!
+2025-03-04 15:59:58,249 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:00:11,376 - INFO - Database Connection Successfully!
+2025-03-04 16:00:11,385 - INFO - Stock Added Successfully for R125
+2025-03-04 16:00:11,389 - INFO - Database Connection Successfully!
+2025-03-04 16:00:11,394 - INFO - Stock report updated for R125 on 2025-03-04
+2025-03-04 16:00:11,395 - INFO - Database Connection Successfully!
+2025-03-04 16:00:11,395 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:00:11,452 - INFO - Database Connection Successfully!
+2025-03-04 16:00:11,452 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:00:14,664 - INFO - Database Connection Successfully!
+2025-03-04 16:00:14,664 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:00:17,413 - INFO - Database Connection Successfully!
+2025-03-04 16:00:17,422 - INFO - Sales Updated Successfully for product: R125
+2025-03-04 16:00:17,427 - INFO - Database Connection Successfully!
+2025-03-04 16:00:17,432 - INFO - Sales report updated for R125 on 2025-03-04
+2025-03-04 16:00:17,432 - INFO - Database Connection Successfully!
+2025-03-04 16:00:17,433 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:00:17,473 - INFO - Database Connection Successfully!
+2025-03-04 16:00:17,474 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:03:40,029 - INFO - Database Connection Successfully!
+2025-03-04 16:03:40,030 - INFO - OB already initialized for today.
+2025-03-04 16:06:36,146 - INFO - Database Connection Successfully!
+2025-03-04 16:06:36,148 - INFO - OB already initialized for today.
+2025-03-04 16:06:38,195 - INFO - Database Connection Successfully!
+2025-03-04 16:06:38,196 - INFO - Fetched all items from Snacks successfully.
+2025-03-04 16:06:47,420 - INFO - Database Connection Successfully!
+2025-03-04 16:06:47,421 - INFO - Fetched all items from Snacks successfully.
+2025-03-04 16:06:49,238 - INFO - Database Connection Successfully!
+2025-03-04 16:06:49,239 - INFO - Fetched all items from Liquor successfully.
+2025-03-04 16:12:10,364 - INFO - Database Connection Successfully!
+2025-03-04 16:12:10,365 - INFO - OB already initialized for today.
+2025-03-04 16:12:13,131 - INFO - Database Connection Successfully!
+2025-03-04 16:12:13,132 - INFO - Fetched all items from Liquor successfully.
+2025-03-04 16:12:27,449 - INFO - Database Connection Successfully!
+2025-03-04 16:12:27,450 - INFO - Fetched all items from Liquor successfully.
+2025-03-04 16:12:39,212 - INFO - Database Connection Successfully!
+2025-03-04 16:12:39,213 - INFO - Fetched all items from ColdDrinks successfully.
+2025-03-04 16:15:47,041 - INFO - Database Connection Successfully!
+2025-03-04 16:15:47,042 - INFO - OB already initialized for today.
+2025-03-04 16:15:48,925 - INFO - Database Connection Successfully!
+2025-03-04 16:15:48,926 - INFO - Fetched all items from Snacks successfully.
+2025-03-04 16:16:03,052 - INFO - Database Connection Successfully!
+2025-03-04 16:16:03,053 - INFO - Fetched all items from Liquor successfully.
